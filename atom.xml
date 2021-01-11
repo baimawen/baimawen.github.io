@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Baimawen&#39;s Blog</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2021-01-11T14:56:32&#43;08:00</updated>
-    <id>http://baimawen.github.io/</id>
-    <link rel="alternate" type="text/html" href="http://baimawen.github.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="http://baimawen.github.io/atom.xml" />
+    <updated>2021-01-11T14:57:37&#43;08:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
     <author>
             <name>baimawen</name>
-            <uri>http://baimawen.github.io/</uri>
+            <uri>https://example.com/</uri>
             
                 <email>baimawen75@gmail.com</email>
             </author>
