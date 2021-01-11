@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Baimawen&#39;s Blog</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2021-01-11T14:47:32&#43;08:00</updated>
+    <updated>2021-01-11T14:56:32&#43;08:00</updated>
     <id>http://baimawen.github.io/</id>
     <link rel="alternate" type="text/html" href="http://baimawen.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="http://baimawen.github.io/atom.xml" />
