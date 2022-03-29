@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Baimawen&#39;s Blog</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-03-29T15:00:47&#43;08:00</updated>
+    <updated>2022-03-29T15:15:01&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">大萧条临近</title>
             <link rel="alternate" type="text/html" href="https://example.com/life/%E5%A4%A7%E8%90%A7%E6%9D%A1%E4%B8%B4%E8%BF%91/" />
             <id>https://example.com/life/%E5%A4%A7%E8%90%A7%E6%9D%A1%E4%B8%B4%E8%BF%91/</id>
-            <updated>2022-03-29T00:44:10&#43;08:00</updated>
+            <updated>2022-03-29T15:09:41&#43;08:00</updated>
             <published>2022-03-28T23:28:47&#43;08:00</published>
             
             <summary type="html">现在就在经济危机中，但发展出1929级的大萧条，还需要几年，最多十年。原理是这样的：……</summary>
@@ -43,7 +43,17 @@
 &lt;li&gt;战争(抢资源，消耗产能)：中国的能源、矿、饲料严重依赖进口，美国的消费品严重依赖进口。如果开展，互相禁运，会直接引爆本国经济大萧条，造成社会动荡。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;中国这25年的经济&#34;&gt;中国这25年的经济&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;~/blog/static/images/202456A5-028B-4D1D-8B66-7DA62F55A1F2_1_105_c.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/images/202456A5-028B-4D1D-8B66-7DA62F55A1F2_1_105_c.jpeg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://example.com/images/44B62952-E5A4-48E7-89BB-C2F9504D84D8_1_105_c.jpeg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://example.com/images/1AACFB3F-3A7B-49E5-B0E1-7EA8D5D3D096_1_105_c.jpeg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://example.com/images/5EA01DA8-FF7C-4F7C-90C4-72CB8BA0E5C1_1_105_c.jpeg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://example.com/images/E01AC999-F3A2-43F3-BC3F-14B81C4A8396_1_105_c.jpeg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://example.com/images/6F2B1E69-92DB-403D-8D39-F7DB86AFADC7_1_105_c.jpeg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://example.com/images/BE2AF5FB-275A-481A-B5B2-81616AA53E50_1_105_c.jpeg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://example.com/images/D3BCB3F7-485D-4646-8FDB-D38D79073884_1_105_c.jpeg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://example.com/images/215670FA-0522-4EAA-A12C-4D7DDB92F769_1_105_c.jpeg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://example.com/images/C40FE7F4-49FB-47D9-A133-0D2D094DB532_1_105_c.jpeg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://example.com/images/158E5045-B55C-4BB1-A848-6770A82BC5D9_1_105_c.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;大萧条迫在眉睫&#34;&gt;大萧条迫在眉睫&lt;/h2&gt;
 &lt;h3 id=&#34;失业&#34;&gt;失业&lt;/h3&gt;
 &lt;p&gt;2020年我国城镇失业人口高达4000W是08年的两倍。2021年中国有两亿人正在灵活就业，就是没稳定工作的人有两个亿，他们要么是没有工作但未登记失业，要么是从事着用人单位不交五险一金、随时可能失去工作、低时薪、缺乏工伤保障的工作，包括送外卖、网约车司机、日结工人、日结保洁、兼职服务员、小摊贩等等。他们为了赚钱维持生存，不得不超长时间的劳动，甚至要打多份工。现在，从事外卖骑手的人越来越多了，仅仅美团旗下注册的外卖骑手，数量就达到了1000万之多。&lt;/p&gt;
