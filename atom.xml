@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Baimawen&#39;s Blog</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-03-29T15:36:52&#43;08:00</updated>
+    <updated>2022-03-29T15:51:16&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,52 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
+        <entry>
+            <title type="text">藏酒是否增加价值</title>
+            <link rel="alternate" type="text/html" href="https://example.com/life/%E8%97%8F%E9%85%92%E6%98%AF%E5%90%A6%E5%A2%9E%E5%8A%A0%E4%BB%B7%E5%80%BC/" />
+            <id>https://example.com/life/%E8%97%8F%E9%85%92%E6%98%AF%E5%90%A6%E5%A2%9E%E5%8A%A0%E4%BB%B7%E5%80%BC/</id>
+            <updated>2022-03-29T15:51:09&#43;08:00</updated>
+            <published>2022-03-29T15:40:34&#43;08:00</published>
+            
+            <summary type="html">问:我生产一瓶酒，然后把它埋了，十年后我没有付出额外的劳动时间，如何用劳动价值论来解……</summary>
+            
+                <content type="html">&lt;p&gt;问:&lt;a href=&#34;https://www.zhihu.com/question/385767141/answer/2252346692&#34;&gt;我生产一瓶酒，然后把它埋了，十年后我没有付出额外的劳动时间，如何用劳动价值论来解释酒增值了？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;答：&lt;/p&gt;
+&lt;p&gt;仓储物流，也是社会化生产的一环节，只是藏在流通领域，而非生产领域罢了。没有它，产品要么堆在厂房要么烂在风雨中，不能成功让社会消费它，这样的生产就不是社会化的生产。&lt;/p&gt;
+&lt;p&gt;**仓储物流会增加商品的价值，增量是仓储物流所消耗的生产资料的价值 加上 仓储物流的活劳动。**生产资料如一两可以用十年的车辆，汽油，能用三十年的仓库，活劳动如驾驶、搬运、看管等等。&lt;/p&gt;
+&lt;p&gt;不同于一般产品的仓储不增加使用价值，**酒在贮藏后，因发生复杂的化学反应，口感改善，其使用价值会增加，因而酒的贮藏应该当成产品在生产领域的一个工序。**不过，不论是普通产品的仓储，还是酒的贮藏，其计算价值的方法是一样的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;价值，谈的是社会必要劳动时间，也就是这个产品现在让社会上的熟练工去生产，平均消耗掉的劳动时间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以酒贮藏为例，你一个人埋藏酒十年，酒增加的价值，就不是按你一个人挖坑的劳动来算，而是按社会上所有酒窖平均来算：酒窖大量仓储酒，这个酒窖建设与修缮的劳动时间、生产酒桶的劳动时间、酒窖工人的搬运和看管的劳动时间，等等加到一起，平摊到一瓶酒上，就是它仓储十年增加的价值。&lt;/p&gt;
+&lt;p&gt;至于酒的贮藏后的价格，比起没有贮藏的酒的价格，会多出来多少：0. 酒窖工人工资 1. 藏酒投资×社会平均利润率 2. 相比同行业平均水平 技术升级带来超额利润（如加速贮藏的化学反应） 3. 酒窖的绝对地租和相对地租 4. 供需波动造成的价格增减 5. 像茅台这样的被金融化的酒，和有价证券一样，会多出来一部分虚拟资产，使得价格远高于价值。这些内容在结尾这本书会讲到。&lt;/p&gt;
+&lt;p&gt;通常，由于**藏酒的资本有机构成（非人力成本:人力成本）高于社会平均，且资本周转远远更慢，**因此（每年剩余价值除以总投资）会低于社会平均，从而排斥投资，使得供应减少，价格上涨，来使得行业利润率趋近社会平均利润率。因此，&lt;strong&gt;0.+1.这部分价格增长会高于藏酒过程的价值，这被理解成，剩余价值从劳动密集产业转移到这类行业。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本问题的定量分析：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/424824251&#34;&gt;新酒葡萄酒价格与劳动价值论&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;系统入门政治经济学，请读徐禾《政治经济学概论》，通俗易懂，用语现代，深入浅出，举例详实：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.tsinghua.edu.cn/f/93d876a65d604e18a38d/&#34;&gt;政治经济学概论v1.3&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">大萧条临近</title>
             <link rel="alternate" type="text/html" href="https://example.com/life/%E5%A4%A7%E8%90%A7%E6%9D%A1%E4%B8%B4%E8%BF%91/" />
