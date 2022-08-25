@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Baimawen&#39;s Blog</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-08-26T03:39:16&#43;08:00</updated>
+    <updated>2022-08-26T04:02:05&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -17,9 +17,53 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
         <entry>
+            <title type="text">洗脑心理学</title>
+            <link rel="alternate" type="text/html" href="https://example.com/notes/%E6%B4%97%E8%84%91%E5%BF%83%E7%90%86%E5%AD%A6/" />
+            <id>https://example.com/notes/%E6%B4%97%E8%84%91%E5%BF%83%E7%90%86%E5%AD%A6/</id>
+            <updated>2022-08-26T03:59:51&#43;08:00</updated>
+            <published>2022-08-26T03:59:37&#43;08:00</published>
+            
+            <summary type="html">约翰·佛伦奇和伯伦特·雷文区分了社会权利的六种来源：奖励、胁迫、合法、专业、参照和信……</summary>
+            
+                <content type="html">&lt;p&gt;约翰·佛伦奇和伯伦特·雷文区分了社会权利的六种来源：&lt;strong&gt;奖励、胁迫、合法、专业、参照和信息。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;雷文的解释如下：&lt;/p&gt;
+&lt;p&gt;试想一个管理者用来纠正其下属工作方式的权力基础：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;奖励（给顺从者升职或加薪）；&lt;/li&gt;
+&lt;li&gt;胁迫（对于不服从者，以降薪等惩罚相威胁）；&lt;/li&gt;
+&lt;li&gt;合法（强调管理者有权实施这些行为，而下属有义务服从）；&lt;/li&gt;
+&lt;li&gt;专业（管理者熟知在一件事中怎么做是最好的选择）；&lt;/li&gt;
+&lt;li&gt;参照（唤起一种互相认同感，以便下属在其行为中模仿管理者）；&lt;/li&gt;
+&lt;li&gt;信息（悉心向下属解释为什么纠正后的行为最终对其有利）。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://example.com/notes/" term="notes\" label="notes\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">资本主义个人反抗指南(十)</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%8D%81/" />
-            <id>https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%8D%81/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%8D%81/" />
+            <id>https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%8D%81/</id>
             <updated>2022-04-07T20:11:26&#43;08:00</updated>
             <published>2022-04-07T20:08:42&#43;08:00</published>
             
@@ -69,7 +113,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -84,8 +128,8 @@
     
         <entry>
             <title type="text">六谈资本</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E5%85%AD%E8%B0%88%E8%B5%84%E6%9C%AC/" />
-            <id>https://example.com/life/%E5%85%AD%E8%B0%88%E8%B5%84%E6%9C%AC/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E5%85%AD%E8%B0%88%E8%B5%84%E6%9C%AC/" />
+            <id>https://example.com/think/%E5%85%AD%E8%B0%88%E8%B5%84%E6%9C%AC/</id>
             <updated>2022-03-29T16:52:10&#43;08:00</updated>
             <published>2022-03-29T16:50:41&#43;08:00</published>
             
@@ -379,7 +423,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -394,8 +438,8 @@
     
         <entry>
             <title type="text">藏酒是否增加价值</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E8%97%8F%E9%85%92%E6%98%AF%E5%90%A6%E5%A2%9E%E5%8A%A0%E4%BB%B7%E5%80%BC/" />
-            <id>https://example.com/life/%E8%97%8F%E9%85%92%E6%98%AF%E5%90%A6%E5%A2%9E%E5%8A%A0%E4%BB%B7%E5%80%BC/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E8%97%8F%E9%85%92%E6%98%AF%E5%90%A6%E5%A2%9E%E5%8A%A0%E4%BB%B7%E5%80%BC/" />
+            <id>https://example.com/think/%E8%97%8F%E9%85%92%E6%98%AF%E5%90%A6%E5%A2%9E%E5%8A%A0%E4%BB%B7%E5%80%BC/</id>
             <updated>2022-03-29T15:51:09&#43;08:00</updated>
             <published>2022-03-29T15:40:34&#43;08:00</published>
             
@@ -425,7 +469,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -440,8 +484,8 @@
     
         <entry>
             <title type="text">大萧条临近</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E5%A4%A7%E8%90%A7%E6%9D%A1%E4%B8%B4%E8%BF%91/" />
-            <id>https://example.com/life/%E5%A4%A7%E8%90%A7%E6%9D%A1%E4%B8%B4%E8%BF%91/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E5%A4%A7%E8%90%A7%E6%9D%A1%E4%B8%B4%E8%BF%91/" />
+            <id>https://example.com/think/%E5%A4%A7%E8%90%A7%E6%9D%A1%E4%B8%B4%E8%BF%91/</id>
             <updated>2022-03-29T15:36:25&#43;08:00</updated>
             <published>2022-03-28T23:28:47&#43;08:00</published>
             
@@ -599,7 +643,7 @@
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -614,8 +658,8 @@
     
         <entry>
             <title type="text">天涯kkndme神贴聊房价</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/" />
-            <id>https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/" />
+            <id>https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/</id>
             <updated>2022-03-28T23:08:28&#43;08:00</updated>
             <published>2022-03-28T22:59:45&#43;08:00</published>
             
@@ -625,272 +669,272 @@
 &lt;p&gt;天涯神贴&lt;a href=&#34;http://bbs.tianya.cn/post-house-252774-1.shtml&#34;&gt;「2010年的房地产调控，我们收获了什么？写在房价暴涨前」&lt;/a&gt;脱水版，内容时间顺序和原贴一致，原贴中的优质非楼主写的内容，添加了引用格式便于区分。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B0%83%E6%8E%A7%E9%99%8D%E6%88%BF%E4%BB%B7%E6%98%AF%E5%88%9A%E9%9C%80%E7%9A%84%E4%B8%80%E5%8E%A2%E6%83%85%E6%84%BF&#34;&gt;调控降房价是刚需的一厢情愿&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B0%83%E6%8E%A7%E9%99%8D%E6%88%BF%E4%BB%B7%E6%98%AF%E5%88%9A%E9%9C%80%E7%9A%84%E4%B8%80%E5%8E%A2%E6%83%85%E6%84%BF&#34;&gt;调控降房价是刚需的一厢情愿&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#1%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%9C%89%E5%B1%85%E4%BD%8F%E6%9D%83%E6%88%BF%E5%AD%90%E6%98%AF%E7%94%A8%E6%9D%A5%E4%BD%8F%E7%9A%84%E4%B8%8D%E6%98%AF%E7%94%A8%E6%9D%A5%E7%82%92%E7%9A%84&#34;&gt;1、人人都有居住权。房子是用来住的，不是用来炒的&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#2%E6%88%BF%E5%AD%90%E5%A4%AA%E8%B4%B5%E4%BA%86%E7%A7%9F%E5%94%AE%E6%AF%94%E4%B8%A5%E9%87%8D%E4%B8%8D%E5%90%88%E7%90%86%E7%A9%BA%E7%BD%AE%E7%8E%87%E5%A4%AA%E9%AB%98%E4%BA%BA%E5%9D%87%E6%94%B6%E5%85%A5%E5%A4%AA%E4%BD%8E%E6%97%A9%E6%99%9A%E8%A6%81%E5%B4%A9%E7%9B%98&#34;&gt;2、房子太贵了，租售比严重不合理，空置率太高，人均收入太低，早晚要崩盘&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#3%E6%88%BF%E4%BB%B7%E4%B8%8A%E6%B6%A8%E9%80%A0%E6%88%90%E7%89%A9%E4%BB%B7%E4%B8%8A%E6%B6%A8%E4%BA%BA%E6%B0%91%E7%94%9F%E6%B4%BB%E5%8F%98%E5%BE%97%E5%9B%B0%E9%9A%BE&#34;&gt;3、房价上涨造成物价上涨，人民生活变得困难&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#1%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%9C%89%E5%B1%85%E4%BD%8F%E6%9D%83%E6%88%BF%E5%AD%90%E6%98%AF%E7%94%A8%E6%9D%A5%E4%BD%8F%E7%9A%84%E4%B8%8D%E6%98%AF%E7%94%A8%E6%9D%A5%E7%82%92%E7%9A%84&#34;&gt;1、人人都有居住权。房子是用来住的，不是用来炒的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#2%E6%88%BF%E5%AD%90%E5%A4%AA%E8%B4%B5%E4%BA%86%E7%A7%9F%E5%94%AE%E6%AF%94%E4%B8%A5%E9%87%8D%E4%B8%8D%E5%90%88%E7%90%86%E7%A9%BA%E7%BD%AE%E7%8E%87%E5%A4%AA%E9%AB%98%E4%BA%BA%E5%9D%87%E6%94%B6%E5%85%A5%E5%A4%AA%E4%BD%8E%E6%97%A9%E6%99%9A%E8%A6%81%E5%B4%A9%E7%9B%98&#34;&gt;2、房子太贵了，租售比严重不合理，空置率太高，人均收入太低，早晚要崩盘&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#3%E6%88%BF%E4%BB%B7%E4%B8%8A%E6%B6%A8%E9%80%A0%E6%88%90%E7%89%A9%E4%BB%B7%E4%B8%8A%E6%B6%A8%E4%BA%BA%E6%B0%91%E7%94%9F%E6%B4%BB%E5%8F%98%E5%BE%97%E5%9B%B0%E9%9A%BE&#34;&gt;3、房价上涨造成物价上涨，人民生活变得困难&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B0%83%E6%8E%A7%E7%9A%84%E7%9C%9F%E6%AD%A3%E7%9B%AE%E7%9A%84%E9%98%B2%E8%8C%83%E9%87%91%E8%9E%8D%E9%A3%8E%E9%99%A9--%E9%80%9A%E8%BF%87%E5%9E%84%E6%96%AD%E5%AE%9E%E7%8E%B0gj%E5%88%A9%E7%9B%8A%E6%9C%80%E5%A4%A7%E5%8C%96&#34;&gt;调控的真正目的：防范金融风险 &amp;amp; 通过垄断实现gj利益最大化&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%AE%98%E6%96%B9%E5%85%AC%E5%B8%83%E7%9A%84%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%E5%8F%AA%E8%A6%81%E5%85%B3%E7%B3%BB%E5%88%B0%E6%9F%90%E4%B8%AA%E7%BE%A4%E4%BD%93%E7%9A%84%E5%88%A9%E7%9B%8A%E5%B0%B1%E4%B8%80%E5%AE%9A%E4%BC%9A%E8%A2%AB%E4%BF%AE%E9%A5%B0%E5%AF%BC%E8%87%B4%E5%A4%B1%E7%9C%9F&#34;&gt;官方公布的统计数据，只要关系到某个群体的利益，就一定会被修饰导致失真&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%A8%8E%E6%94%B6%E4%BB%8E%E6%9D%A5%E9%83%BD%E6%98%AF%E5%90%91%E4%B8%8B%E6%B8%B8%E8%BD%AC%E5%AB%81%E7%9A%84--%E6%88%BF%E4%BA%A7%E7%A8%8E%E8%BF%9F%E8%BF%9F%E4%B8%8D%E5%87%BA%E5%8F%B0%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0&#34;&gt;税收从来都是向下游转嫁的 &amp;amp; 房产税迟迟不出台的真正原因&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%9A%84%E7%8E%B0%E7%8A%B6&#34;&gt;房地产的现状&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BB%B7%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E7%A8%80%E7%BC%BA%E6%80%A7%E8%AE%A9%E5%A5%BD%E6%88%BF%E5%AD%90%E6%88%90%E4%B8%BA%E8%B5%84%E9%87%91%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8E%BB%E5%A4%84&#34;&gt;房价持续上涨的本质是稀缺性让好房子成为资金最好的去处&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E5%9E%84%E6%96%AD&#34;&gt;关于垄断&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B0%83%E6%8E%A7%E7%9A%84%E7%9C%9F%E6%AD%A3%E7%9B%AE%E7%9A%84%E9%98%B2%E8%8C%83%E9%87%91%E8%9E%8D%E9%A3%8E%E9%99%A9--%E9%80%9A%E8%BF%87%E5%9E%84%E6%96%AD%E5%AE%9E%E7%8E%B0gj%E5%88%A9%E7%9B%8A%E6%9C%80%E5%A4%A7%E5%8C%96&#34;&gt;调控的真正目的：防范金融风险 &amp;amp; 通过垄断实现gj利益最大化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%AE%98%E6%96%B9%E5%85%AC%E5%B8%83%E7%9A%84%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%E5%8F%AA%E8%A6%81%E5%85%B3%E7%B3%BB%E5%88%B0%E6%9F%90%E4%B8%AA%E7%BE%A4%E4%BD%93%E7%9A%84%E5%88%A9%E7%9B%8A%E5%B0%B1%E4%B8%80%E5%AE%9A%E4%BC%9A%E8%A2%AB%E4%BF%AE%E9%A5%B0%E5%AF%BC%E8%87%B4%E5%A4%B1%E7%9C%9F&#34;&gt;官方公布的统计数据，只要关系到某个群体的利益，就一定会被修饰导致失真&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%A8%8E%E6%94%B6%E4%BB%8E%E6%9D%A5%E9%83%BD%E6%98%AF%E5%90%91%E4%B8%8B%E6%B8%B8%E8%BD%AC%E5%AB%81%E7%9A%84--%E6%88%BF%E4%BA%A7%E7%A8%8E%E8%BF%9F%E8%BF%9F%E4%B8%8D%E5%87%BA%E5%8F%B0%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0&#34;&gt;税收从来都是向下游转嫁的 &amp;amp; 房产税迟迟不出台的真正原因&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%9A%84%E7%8E%B0%E7%8A%B6&#34;&gt;房地产的现状&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BB%B7%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E7%A8%80%E7%BC%BA%E6%80%A7%E8%AE%A9%E5%A5%BD%E6%88%BF%E5%AD%90%E6%88%90%E4%B8%BA%E8%B5%84%E9%87%91%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8E%BB%E5%A4%84&#34;&gt;房价持续上涨的本质是稀缺性让好房子成为资金最好的去处&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E5%9E%84%E6%96%AD&#34;&gt;关于垄断&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#1%E5%9E%84%E6%96%AD%E7%9A%84%E5%A5%BD%E5%A4%84%E6%98%AF%E6%B2%A1%E6%9C%89%E9%A3%8E%E9%99%A9&#34;&gt;1、垄断的好处是没有风险&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#2%E5%9E%84%E6%96%AD%E5%8F%AF%E4%BB%A5%E8%A7%A3%E5%86%B3%E7%A4%BE%E4%BC%9A%E7%A8%B3%E5%AE%9A&#34;&gt;2、垄断可以解决社会稳定&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#3%E6%88%BF%E5%B1%8B%E5%9E%84%E6%96%AD%E5%8F%AA%E4%BC%9A%E6%84%88%E6%BC%94%E6%84%88%E7%83%88%E5%BA%95%E5%B1%82%E4%BA%BA%E6%B0%91%E6%83%B3%E8%A6%81%E6%8B%A5%E6%9C%89%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%9A%BE%E5%BA%A6%E5%8F%AA%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE&#34;&gt;3、房屋垄断只会愈演愈烈，底层人民想要拥有一套房子的难度只会越来越难&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#1%E5%9E%84%E6%96%AD%E7%9A%84%E5%A5%BD%E5%A4%84%E6%98%AF%E6%B2%A1%E6%9C%89%E9%A3%8E%E9%99%A9&#34;&gt;1、垄断的好处是没有风险&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#2%E5%9E%84%E6%96%AD%E5%8F%AF%E4%BB%A5%E8%A7%A3%E5%86%B3%E7%A4%BE%E4%BC%9A%E7%A8%B3%E5%AE%9A&#34;&gt;2、垄断可以解决社会稳定&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#3%E6%88%BF%E5%B1%8B%E5%9E%84%E6%96%AD%E5%8F%AA%E4%BC%9A%E6%84%88%E6%BC%94%E6%84%88%E7%83%88%E5%BA%95%E5%B1%82%E4%BA%BA%E6%B0%91%E6%83%B3%E8%A6%81%E6%8B%A5%E6%9C%89%E4%B8%80%E5%A5%97%E6%88%BF%E5%AD%90%E7%9A%84%E9%9A%BE%E5%BA%A6%E5%8F%AA%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE&#34;&gt;3、房屋垄断只会愈演愈烈，底层人民想要拥有一套房子的难度只会越来越难&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B0%91%E7%94%9F%E9%97%AE%E9%A2%98&#34;&gt;民生问题&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BA%A7%E7%A8%8E%E7%9A%84%E5%88%B6%E5%AE%9A%E5%8E%9F%E5%88%99&#34;&gt;房产税的制定原则&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%BB%B4%E7%A8%B3%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BA%BA%E6%B0%91%E8%83%BD%E5%90%83%E9%A5%B1%E9%A5%AD&#34;&gt;维稳的本质是人民能吃饱饭&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%AC%E7%A7%9F%E6%88%BF%E6%98%AF%E4%B8%BA%E4%BD%93%E5%88%B6%E5%86%85%E6%9C%8D%E5%8A%A1%E7%9A%84&#34;&gt;公租房是为体制内服务的&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BA%A7%E7%A8%8E%E4%B8%80%E5%AE%9A%E4%BC%9A%E8%BD%AC%E5%AB%81%E7%BB%99%E7%A7%9F%E6%88%BF%E4%BA%BA&#34;&gt;房产税一定会转嫁给租房人&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%B7%A8%E5%A4%A7%E7%9A%84%E7%A8%8E%E6%94%B6%E6%B6%88%E8%80%97%E4%B9%9F%E5%86%B3%E5%AE%9A%E4%BA%86gdp%E5%BF%85%E9%A1%BB%E5%BF%AB%E9%80%9F%E5%A2%9E%E9%95%BF--%E5%85%AC%E5%8A%A1%E5%91%98%E8%B6%8A%E7%B2%BE%E5%87%8F%E8%B6%8A%E5%A4%9A&#34;&gt;巨大的税收消耗也决定了GDP必须快速增长 &amp;amp; 公务员越精减越多&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B0%83%E6%8E%A7%E7%9A%84%E5%A5%BD%E5%A4%84%E6%98%AF%E8%AE%A9zf%E5%88%A9%E7%9B%8A%E6%9C%80%E5%A4%A7%E5%8C%96%E9%98%B2%E8%8C%83%E9%87%91%E8%9E%8D%E9%A3%8E%E9%99%A9&#34;&gt;调控的好处是让zf利益最大化&amp;amp;防范金融风险&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9E%84%E6%96%AD%E5%8F%AF%E4%BB%A5%E6%8E%A7%E5%88%B6%E4%BB%B7%E6%A0%BC%E7%BB%B4%E6%8C%81%E7%A8%B3%E5%AE%9A&#34;&gt;垄断可以控制价格，维持稳定&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E4%BD%8F%E6%88%BF%E9%97%AE%E9%A2%98%E6%9C%89%E5%9B%BD%E5%AE%B6%E4%BF%9D%E9%A9%BE%E6%8A%A4%E8%88%AA&#34;&gt;体制内的住房问题有国家保驾护航&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BE%9D%E9%9D%A0%E4%BD%86%E5%8F%88%E4%B8%8D%E8%83%BD%E5%AE%8C%E5%85%A8%E4%BE%9D%E9%9D%A0%E5%BC%80%E5%8F%91%E5%95%86%E5%BB%BA%E5%85%AC%E7%A7%9F%E6%88%BF&#34;&gt;依靠但又不能完全依靠开发商建公租房&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E4%BD%8F%E6%88%BF%E9%97%AE%E9%A2%98%E4%B8%8D%E9%9A%BE%E8%A7%A3%E5%86%B3&#34;&gt;体制内的住房问题不难解决&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%A7%A3%E5%86%B3%E4%BD%93%E5%88%B6%E5%A4%96%E7%9A%84%E4%BD%8F%E6%88%BF%E9%97%AE%E9%A2%98%E5%9B%BD%E5%AE%B6%E5%9E%84%E6%96%AD%E7%BB%86%E6%B0%B4%E9%95%BF%E6%B5%81%E6%94%B6%E7%A7%9F&#34;&gt;解决体制外的住房问题：国家垄断，细水长流收租&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B9%B0%E5%BE%97%E8%B5%B7%E4%BC%98%E8%B4%A8%E5%95%86%E5%93%81%E6%88%BF%E5%B0%B1%E5%B0%BD%E6%97%A9%E4%B9%B0%E6%8A%8A&#34;&gt;普通人买得起「优质商品房」就尽早买把&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%95%86%E5%93%81%E6%88%BF%E5%92%8C%E5%85%AC%E7%A7%9F%E6%88%BF%E7%9A%84%E5%8C%BA%E5%88%AB&#34;&gt;商品房和公租房的区别&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%8F%90%E8%AE%AE%E9%80%9A%E8%BF%87%E5%BE%81%E6%99%AE%E7%A8%8E%E8%B0%83%E8%8A%82%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D%E4%B8%8D%E6%98%AF%E5%82%BB%E5%B0%B1%E6%98%AF%E5%9D%8F%E5%88%B6%E5%AE%9A%E6%94%BF%E7%AD%96%E7%9A%84%E4%BA%BA%E4%B8%8D%E4%BC%9A%E8%AE%A9%E6%94%BF%E7%AD%96%E9%92%88%E5%AF%B9%E8%87%AA%E5%B7%B1%E9%82%A3%E4%B9%88%E6%94%BF%E7%AD%96%E9%83%BD%E6%98%AF%E8%B0%81%E5%88%B6%E5%AE%9A%E7%9A%84%E5%91%A2&#34;&gt;提议通过征普税调节贫富差距，不是傻，就是坏（制定政策的人不会让政策针对自己，那么政策都是谁制定的呢）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B0%83%E6%8E%A7%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%BD%B1%E5%93%8D&#34;&gt;调控带来的影响&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%86%9C%E4%BA%A7%E5%93%81%E7%9A%84%E4%BB%B7%E6%A0%BC%E5%85%B3%E7%B3%BB%E5%88%B0%E5%BD%B1%E5%93%8D%E7%A8%B3%E5%AE%9A%E7%9A%84%E5%90%83%E9%A5%AD%E9%97%AE%E9%A2%98&#34;&gt;农产品的价格关系到影响稳定的吃饭问题&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%86%9C%E4%BA%A7%E5%93%81%E4%BB%B7%E6%A0%BC%E7%9A%84%E6%8A%AC%E5%A4%B4%E4%BC%9A%E5%AF%BC%E8%87%B4%E7%89%A9%E4%BB%B7%E5%85%A8%E9%9D%A2%E4%B8%8A%E6%B6%A8%E4%BD%86%E5%9B%BD%E5%AE%B6%E4%B8%8D%E4%BC%9A%E5%9D%90%E8%A7%86%E4%B8%8D%E7%AE%A1%E4%B8%94%E6%9C%89%E8%83%BD%E5%8A%9B%E7%AE%A1&#34;&gt;农产品价格的抬头会导致物价全面上涨，但国家不会坐视不管且有能力管&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B5%84%E9%87%91%E4%BC%9A%E5%9C%A8%E4%BC%98%E8%B4%A8%E8%B5%84%E4%BA%A7%E4%B9%8B%E9%97%B4%E6%B5%81%E5%8A%A8%E8%80%8C%E5%86%B3%E5%AE%9A%E4%BC%98%E8%B4%A8%E8%B5%84%E4%BA%A7%E4%BB%B7%E6%A0%BC%E7%9A%84%E6%98%AF%E7%B2%BE%E8%8B%B1%E9%98%B6%E5%B1%82%E7%9A%84%E8%B4%AD%E4%B9%B0%E5%8A%9B&#34;&gt;资金会在优质资产之间流动，而决定优质资产价格的是精英阶层的购买力&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B5%84%E9%87%91%E6%B5%81%E5%90%91%E8%A7%84%E5%BE%8B%E5%86%B3%E5%AE%9A%E4%BA%86%E5%86%9C%E4%BA%A7%E5%93%81%E5%92%8C%E8%B5%84%E4%BA%A7%E4%BB%B7%E6%A0%BC%E6%80%BB%E6%9C%89%E4%B8%80%E4%B8%AA%E8%A6%81%E6%B6%A8%E4%BA%BA%E4%B8%BA%E5%8E%8B%E5%88%B6%E4%B8%80%E5%AE%9A%E4%BC%9A%E6%8C%89%E4%B8%8B%E8%91%AB%E8%8A%A6%E6%B5%AE%E8%B5%B7%E7%93%A2&#34;&gt;资金流向规律决定了农产品和资产价格总有一个要涨，人为压制，一定会按下葫芦浮起瓢&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B5%84%E9%87%91%E6%B5%81%E5%90%91%E8%A7%84%E5%BE%8B%E5%86%B3%E5%AE%9A%E4%BA%86%E6%B4%BC%E5%9C%B0%E4%B8%8D%E4%BC%9A%E4%B8%80%E7%9B%B4%E6%98%AF%E6%B4%BC%E5%9C%B0&#34;&gt;资金流向规律决定了洼地不会一直是洼地&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A4%A7%E5%9F%8E%E5%B8%82%E5%AF%B9%E8%BF%91%E8%B7%9D%E7%A6%BB%E7%9A%84%E5%B0%8F%E5%9F%8E%E5%B8%82%E6%9C%89%E8%99%B9%E5%90%B8%E6%95%88%E5%BA%94&#34;&gt;大城市对近距离的小城市有虹吸效应&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%86%B3%E5%AE%9A%E6%88%BF%E4%BB%B7%E7%9A%84%E5%9B%A0%E7%B4%A0%E6%9C%89%E5%BE%88%E5%A4%9A%E5%85%B7%E4%BD%93%E6%83%85%E5%86%B5%E5%85%B7%E4%BD%93%E5%88%86%E6%9E%90&#34;&gt;决定房价的因素有很多，具体情况具体分析&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%BA%8E%E9%92%B1%E8%80%8C%E8%A8%80%E7%9A%84%E4%B8%8D%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%BA%8E%E5%AE%9E%E9%99%85%E8%B4%AD%E4%B9%B0%E5%8A%9B%E8%80%8C%E8%A8%80%E7%9A%84&#34;&gt;房价暴涨是相对于钱而言的，不是相对于实际购买力而言的&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9C%9F%E5%9C%B0%E4%B8%8D%E7%A8%80%E7%BC%BA%E4%BC%98%E8%B4%A8%E5%9C%9F%E5%9C%B0%E7%A8%80%E7%BC%BA&#34;&gt;土地不稀缺，优质土地稀缺&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%9B%86%E4%B8%AD%E5%8F%91%E5%B1%95%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%98%AF%E5%AF%BC%E8%87%B4%E4%BC%98%E8%B4%A8%E5%9C%9F%E5%9C%B0%E7%A8%80%E7%BC%BA%E7%9A%84%E5%8E%9F%E5%9B%A0&#34;&gt;集中发展大城市是导致优质土地稀缺的原因&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E6%98%AF%E8%AF%B4%E7%BB%99%E4%BA%BA%E6%B0%91%E5%90%AC%E7%9A%84&#34;&gt;为人民服务是说给人民听的&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8E%86%E5%8F%B2%E6%98%AF%E4%B8%80%E9%9D%A2%E9%95%9C%E5%AD%90%E4%B8%8D%E5%90%8C%E7%9A%84%E5%9B%BD%E6%83%85%E5%86%B3%E5%AE%9A%E4%BA%86%E9%87%87%E5%8F%96%E5%90%8C%E6%A0%B7%E7%9A%84%E6%94%BF%E7%AD%96%E7%BB%93%E6%9E%9C%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8D%97%E8%BE%95%E5%8C%97%E8%BE%99&#34;&gt;历史是一面镜子，不同的国情决定了采取同样的政策结果可能是南辕北辙&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#zf%E9%99%90%E5%88%B6%E6%94%BF%E7%AD%96%E6%88%BF%E7%9A%84%E5%88%A9%E6%B6%A6%E9%82%A3kfs%E5%B0%B1%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99&#34;&gt;zf限制政策房的利润，那kfs就一定会偷工减料&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%B1%81%E8%82%A1%E5%86%B3%E5%AE%9A%E8%84%91%E8%A2%8B%E4%BA%BA%E6%B0%91%E4%B8%8D%E7%9F%A5%E5%8E%89%E5%AE%B3%E5%85%B3%E7%B3%BB%E9%80%89%E6%88%BF%E5%AD%90zf%E9%80%89%E5%86%9C%E4%BA%A7%E5%93%81&#34;&gt;屁股决定脑袋，人民不知厉害关系选房子，zf选农产品&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%90%84%E4%B8%AA%E9%98%B6%E5%B1%82%E7%9A%84%E4%BD%8F%E6%88%BF%E9%97%AE%E9%A2%98%E9%83%BD%E5%AE%89%E6%8E%92%E7%9A%84%E5%A6%A5%E5%A6%A5%E7%9A%84&#34;&gt;各个阶层的住房问题都安排的妥妥的&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%A1%B6%E5%B1%82%E7%9A%84%E5%B2%81%E6%9C%88%E9%9D%99%E5%A5%BD%E6%9D%A5%E8%87%AA%E4%BA%8E%E5%BA%95%E5%B1%82%E7%9A%84%E8%B4%9F%E9%87%8D%E5%89%8D%E8%A1%8C&#34;&gt;顶层的岁月静好来自于底层的负重前行&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%BA%95%E5%B1%82%E6%8C%87%E7%9A%84%E6%98%AF%E4%BD%93%E5%88%B6%E5%A4%96%E5%BA%95%E8%96%AA%E7%99%BD%E9%A2%86&#34;&gt;底层指的是体制外底薪白领&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B5%84%E9%87%91%E7%BB%88%E4%BC%9A%E6%B5%81%E5%90%91%E5%85%B7%E6%9C%89%E7%A8%80%E7%BC%BA%E6%80%A7%E7%9A%84%E8%B5%84%E4%BA%A7&#34;&gt;资金终会流向具有稀缺性的资产&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9C%9F%E5%9C%B0%E7%9A%84%E7%A8%80%E7%BC%BA%E5%86%B3%E5%AE%9A%E4%BA%86%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E6%B0%B8%E8%BF%9C%E4%B9%B0%E4%B8%8D%E8%B5%B7%E6%83%B3%E4%B9%B0%E7%9A%84%E6%88%BF%E5%AD%90&#34;&gt;土地的稀缺决定了大多数人永远买不起想买的房子&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%8D%E5%90%8C%E9%98%B6%E5%B1%82%E7%9A%84%E4%BA%BA%E5%AF%B9%E6%94%B6%E5%85%A5%E9%AB%98%E4%BD%8E%E6%9C%89%E4%B8%8D%E5%90%8C%E7%9A%84%E7%90%86%E8%A7%A3&#34;&gt;不同阶层的人对收入高低有不同的理解&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%80%E4%BA%8C%E7%BA%BF%E4%B9%B0%E6%88%BF%E5%8F%AA%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E6%9C%80%E7%BB%88%E7%A7%9F%E6%88%BF%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%BB%E6%B5%81&#34;&gt;一二线买房只会越来越难，最终租房会成为主流&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%BA%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E5%AE%89%E8%BA%AB%E4%B9%8B%E6%89%80%E8%83%BD%E4%B9%B0%E6%97%A9%E4%B9%B0%E6%AF%94%E6%99%9A%E4%B9%B0%E5%A5%BD&#34;&gt;人需要一个安身之所，能买早买比晚买好&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%82%A1%E5%B8%82&#34;&gt;股市&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A6%82%E6%9E%9C%E6%88%BF%E4%BB%B7%E4%B8%8D%E6%B6%A8%E9%82%A3%E5%85%B6%E4%BB%96%E4%BA%A7%E5%93%81%E4%BC%9A%E6%80%8E%E4%B9%88%E6%B6%A8&#34;&gt;如果房价不涨，那其他产品会怎么涨&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#zf%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%85%AC%E7%A7%9F%E6%88%BF%E6%8E%A7%E5%88%B6%E7%A7%9F%E6%88%BF%E5%B8%82%E5%9C%BA&#34;&gt;zf如何利用公租房控制租房市场&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9F%8E%E4%B8%AD%E6%9D%91%E4%B8%8D%E4%BC%9A%E9%95%BF%E6%9C%9F%E5%AD%98%E5%9C%A8&#34;&gt;城中村不会长期存在&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E7%9A%84%E6%9C%AA%E6%9D%A5&#34;&gt;三四线城市的未来&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E7%A7%9F%E4%BB%B7%E6%A0%BC%E6%B6%A8%E4%B8%8D%E4%B8%8A%E5%8E%BB%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%B9%B0%E6%88%BF%E8%BF%98%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%9C%89%E5%B8%8C%E6%9C%9B&#34;&gt;房租价格涨不上去，本质是买房还看起来有希望&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%A8%80%E7%BC%BA%E6%88%BF%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%B0%B8%E8%BF%9C%E6%B6%A8&#34;&gt;稀缺房的价格永远涨&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%B2%AE%E9%A3%9F%E5%92%8C%E6%88%BF%E5%AD%90%E7%9A%84%E4%B8%8D%E5%90%8C%E6%98%AF%E6%88%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%92%8C%E5%9C%9F%E5%9C%B0%E5%89%A5%E7%A6%BB&#34;&gt;粮食和房子的不同是，房子无法和土地剥离&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%AD%E4%B9%B0%E6%88%BF%E4%BB%B7%E5%9F%BA%E6%95%B0%E4%BD%8E%E7%9A%84%E7%9C%81%E4%BC%9A%E5%9F%8E%E5%B8%82%E6%80%8E%E4%B9%88%E9%83%BD%E4%B8%8D%E4%BC%9A%E4%BA%8F%E7%9A%84&#34;&gt;购买房价基数低的省会城市，怎么都不会亏的&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%98%AF%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E8%BF%98%E6%98%AF%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E&#34;&gt;房地产是资本市场还是实体经济？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BB%80%E4%B9%88%E6%98%AF%E5%82%BB%E7%A9%BA&#34;&gt;什么是傻空&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BB%80%E4%B9%88%E6%98%AF%E7%9C%9F%E4%B9%B0%E4%B8%8D%E8%B5%B7%E6%88%BF&#34;&gt;什么是真买不起房&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B7%E4%BD%93%E6%83%85%E5%86%B5%E5%85%B7%E4%BD%93%E5%88%86%E6%9E%90%E5%A6%82%E6%9E%9C%E7%9C%8B%E4%B8%8D%E6%87%82%E4%B8%80%E5%AE%9A%E6%98%AF%E6%B2%A1%E6%9C%89%E6%8A%93%E4%BD%8F%E9%97%AE%E9%A2%98%E6%9C%AC%E8%B4%A8&#34;&gt;具体情况具体分析，如果看不懂，一定是没有抓住问题本质&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%A1%82%E6%9E%97-vs-%E5%8D%97%E5%AE%81&#34;&gt;桂林 vs 南宁&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%AC%E7%A7%9F%E6%88%BF%E7%9A%84%E9%87%8F%E7%BA%A7%E4%B8%8D%E4%BC%9A%E5%86%B2%E5%87%BB%E5%88%B0%E5%95%86%E5%93%81%E6%88%BF%E5%B8%82%E5%9C%BA&#34;&gt;公租房的量级不会冲击到商品房市场&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%B5%E9%98%B3%E8%B5%84%E6%BA%90%E7%9A%84%E7%A8%80%E7%BC%BA%E5%AF%BC%E8%87%B4%E6%9D%83%E8%B4%B5%E6%9B%B4%E5%AE%B9%E6%98%93%E5%9E%84%E6%96%AD%E9%80%9A%E8%BF%87%E4%BD%8E%E6%94%B6%E5%85%A5%E9%AB%98%E7%89%A9%E4%BB%B7%E7%9A%84%E6%96%B9%E5%BC%8F%E5%89%A5%E5%89%8A%E5%BA%95%E5%B1%82%E7%BE%A4%E4%BD%93&#34;&gt;贵阳，资源的稀缺导致权贵更容易垄断，通过低收入高物价的方式剥削底层群体&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%87%8D%E5%BA%86%E9%AB%98%E5%B1%82%E5%92%8C%E5%88%AB%E5%A2%85%E6%80%8E%E4%B9%88%E9%80%89&#34;&gt;重庆：高层和别墅怎么选？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%A7%E5%B8%81%E8%B4%AC%E5%80%BC&#34;&gt;货币贬值&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E9%AB%98%E4%BA%8E%E4%B8%AD%E5%9B%BD%E4%BD%86%E5%A4%A7%E5%A4%9A%E6%95%B0%E5%95%86%E5%93%81%E7%9A%84%E7%89%A9%E4%BB%B7%E5%8D%B4%E4%BD%8E%E4%BA%8E%E4%B8%AD%E5%9B%BD&#34;&gt;为什么美国人工高于中国，但大多数商品的物价却低于中国&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%BF%98%E8%83%BD%E4%B8%8A%E8%BD%A6%E7%9A%84%E8%B5%B6%E7%B4%A7%E4%B8%8A%E8%BD%A6&#34;&gt;还能上车的赶紧上车&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%AD%A6%E6%B1%89%E5%9F%8E%E5%B8%82%E5%8F%91%E5%B1%95%E7%A9%BA%E9%97%B4%E7%9A%84%E5%A4%A7%E5%B0%8F%E5%BE%80%E5%BE%80%E5%92%8C%E6%88%BF%E4%BB%B7%E7%9A%84%E5%8D%87%E5%80%BC%E7%A9%BA%E9%97%B4%E6%88%90%E6%AD%A3%E6%AF%94&#34;&gt;武汉：城市发展空间的大小，往往和房价的升值空间成正比&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%9D%83%E5%88%A9%E8%AE%A9%E9%9D%A9%E6%97%8F%E6%88%90%E4%B8%BA%E8%8B%97%E6%97%8F%E7%9A%84%E4%B8%80%E6%94%AF&#34;&gt;权利让革族成为苗族的一支&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BB%B7%E6%98%AF%E5%90%A6%E4%BC%9A%E8%B7%8C%E5%A6%82%E6%9E%9C%E4%BC%9A%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B7%8C&#34;&gt;房价是否会跌，如果会，会怎么跌&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%E6%98%AF%E5%87%8F%E7%BC%93%E7%81%AD%E4%BA%A1%E6%9C%80%E5%A5%BD%E7%9A%84%E8%89%AF%E8%8D%AF&#34;&gt;通货膨胀是减缓灭亡最好的良药&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%A7%E5%B8%81%E4%BE%9B%E5%BA%94%E4%B8%8D%E8%B6%B3%E6%98%AF%E6%98%8E%E6%9C%9D%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0&#34;&gt;货币供应不足是明朝的真正原因&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98%E6%98%AF%E5%AF%BC%E8%87%B4%E6%B8%85%E6%9C%9D%E7%81%AD%E4%BA%A1&#34;&gt;经济问题是导致清朝灭亡&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BA%A7%E6%8A%95%E8%B5%84%E7%9A%84%E5%87%A0%E7%82%B9%E5%BB%BA%E8%AE%AE&#34;&gt;房产投资的几点建议&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AF%B9%E5%A4%96%E5%8D%87%E5%80%BC%E5%AF%B9%E5%86%85%E8%B4%AC%E5%80%BC&#34;&gt;人民币对外升值，对内贬值&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8D%97%E5%AE%81%E4%B9%B0%E6%88%BF%E5%BB%BA%E8%AE%AE&#34;&gt;南宁买房建议&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%BB%8F%E6%B5%8E%E9%80%82%E7%94%A8%E6%88%BF%E9%83%BD%E6%98%AF%E5%86%85%E9%83%A8%E5%88%86%E9%85%8D%E7%9A%84&#34;&gt;经济适用房都是内部分配的&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%99%AE%E9%80%9A%E4%BA%BA%E6%80%8E%E4%B9%88%E5%8A%9E%E5%B0%BD%E6%97%A9%E4%B9%B0%E6%88%BF%E5%8A%AA%E5%8A%9B%E6%8C%A3%E9%92%B1%E6%8A%B5%E5%BE%A1%E9%80%9A%E8%83%80&#34;&gt;普通人怎么办：尽早买房，努力挣钱抵御通胀&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BB%B7%E4%BC%9A%E5%87%BA%E7%8E%B0%E5%BE%88%E5%A4%9A%E4%B8%8A%E4%B8%8B%E6%B3%A2%E5%8A%A8&#34;&gt;房价会出现很多上下波动&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E6%88%BF%E6%97%B6%E6%9C%BA%E7%9A%84%E9%80%89%E6%8B%A9%E7%9C%9Ftm%E5%8E%89%E5%AE%B3%E8%BF%99%E7%AB%9F%E7%84%B6%E6%98%AF2010%E5%B9%B4%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%8F%AF%E6%81%A8%E7%9A%84%E6%98%AF2020%E5%B9%B4%E6%89%8D%E7%9C%8B%E5%88%B0&#34;&gt;买房时机的选择（真TM厉害，这竟然是2010年的建议，可恨的是2020年才看到）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%94%B6%E5%85%A5%E5%88%86%E9%85%8D%E6%94%B9%E9%9D%A9%E8%B7%9F%E4%BD%93%E5%88%B6%E5%A4%96%E7%9A%84%E4%BA%BA%E6%B2%A1%E5%85%B3%E7%B3%BB&#34;&gt;收入分配改革跟体制外的人没关系&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%93%E5%88%B6%E5%A4%96%E7%9A%84%E4%BA%BA%E8%A6%81%E6%97%A9%E6%97%A9%E8%80%83%E8%99%91%E5%85%BB%E8%80%81%E9%97%AE%E9%A2%98&#34;&gt;体制外的人要早早考虑养老问题&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%A6%81%E5%92%8C%E7%99%BD%E7%97%B4%E4%BA%89%E8%BE%A9%E5%9B%A0%E4%B8%BA%E4%BB%96%E4%BC%9A%E6%8A%8A%E4%BD%A0%E7%9A%84%E6%99%BA%E5%95%86%E6%8B%89%E5%88%B0%E5%92%8C%E4%BB%96%E5%90%8C%E4%B8%80%E6%B0%B4%E5%B9%B3%E7%84%B6%E5%90%8E%E7%94%A8%E4%B8%B0%E5%AF%8C%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%89%93%E8%B4%A5%E4%BD%A0&#34;&gt;永远不要和白痴争辩，因为他会把你的智商拉到和他同一水平，然后用丰富的经验打败你&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%BD%93%E4%B8%AA%E5%86%9C%E6%B0%91%E4%B9%9F%E8%A6%81%E6%87%82%E6%94%BF%E7%AD%96%E8%A6%81%E9%A1%BA%E6%94%BF%E7%AD%96%E8%80%8C%E4%B8%BA&#34;&gt;当个农民也要懂政策，要顺政策而为&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%AD%98%E9%92%B1%E4%B8%8D%E5%A6%82%E5%AD%98%E8%B5%84%E4%BA%A7%E9%92%B1%E4%BC%9A%E8%B4%AC%E5%80%BC%E8%B5%84%E4%BA%A7%E4%BC%9A%E5%8D%87%E5%80%BC&#34;&gt;存钱不如存资产，钱会贬值，资产会升值&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E5%AD%90%E8%B6%8A%E6%97%A9%E4%B9%B0%E8%B6%8A%E5%A5%BDzf%E6%83%B3%E9%92%B1%E6%83%B3%E7%96%AF%E4%BA%86&#34;&gt;房子越早买越好，zf想钱想疯了&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%88%A9%E7%9B%8A%E6%89%8D%E6%98%AFzf%E8%A1%8C%E4%B8%BA%E7%9A%84%E6%8C%87%E6%8C%A5%E6%A3%92&#34;&gt;利益才是zf行为的指挥棒&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%BB%BA%E8%AE%AE%E4%B8%80%E5%AE%9A%E6%98%AF%E5%BB%BA%E7%AB%8B%E5%9C%A8%E4%B8%A5%E8%82%83%E8%80%83%E5%AF%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E4%B8%8A&#34;&gt;建议一定是建立在严肃考察的基础上&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%9F%B3%E5%AE%B6%E5%BA%84&#34;&gt;石家庄&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%8A%95%E8%B5%84%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E7%A8%80%E7%BC%BA%E6%80%A7%E4%B9%B0%E6%88%BF%E9%A6%96%E9%80%89%E5%85%AC%E5%8A%A1%E5%91%98%E5%B0%8F%E5%8C%BA&#34;&gt;投资最重要的是稀缺性，买房首选公务员小区&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%BF%9C%E7%A6%BB%E5%9E%83%E5%9C%BE%E4%BA%BA&#34;&gt;远离垃圾人&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%AB%98%E6%88%BF%E4%BB%B7%E6%88%96%E8%AE%B8%E6%9C%89%E5%A4%A9%E4%BC%9A%E5%B4%A9%E7%9B%98%E4%BD%86%E4%BD%A0%E7%AD%89%E4%B8%8D%E5%88%B0%E9%82%A3%E4%B8%80%E5%A4%A9&#34;&gt;高房价或许有天会崩盘，但你等不到那一天&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E5%AD%90%E4%B8%8D%E4%BB%85%E8%A6%81%E6%97%A9%E4%B9%B0%E8%80%8C%E4%B8%94%E6%9C%89%E8%83%BD%E5%8A%9B%E7%9A%84%E8%AF%9D%E4%B8%8D%E8%A6%81%E6%80%95%E5%8E%8B%E5%8A%9B%E4%BA%89%E5%8F%96%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D&#34;&gt;房子不仅要早买，而且有能力的话不要怕压力，争取一步到位&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%87%91%E8%9E%8D%E6%9D%A0%E6%9D%86%E6%98%AF%E7%82%92%E6%88%BF%E8%B5%9A%E9%92%B1%E7%9A%84%E6%94%BE%E5%A4%A7%E5%99%A8&#34;&gt;金融杠杆是炒房赚钱的放大器&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%A6%81%E7%94%A8%E5%8F%91%E5%B1%95%E7%9A%84%E7%9C%BC%E5%85%89%E7%9C%8B%E9%97%AE%E9%A2%98%E5%8F%AA%E8%A6%81%E5%8A%AA%E5%8A%9B%E5%8F%AA%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A5%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%BD%BB%E6%9D%BE&#34;&gt;要用发展的眼光看问题，只要努力，只会越来越好，越来越轻松&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%80%A7%E6%A0%BC%E5%86%B3%E5%AE%9A%E5%91%BD%E8%BF%90&#34;&gt;性格决定命运&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#2012%E5%B9%B4%E4%B8%8D%E5%8F%96%E6%B6%88%E8%B0%83%E6%8E%A7%E8%BF%98%E6%9C%89%E6%88%BF%E4%BB%B7%E7%BB%B4%E7%A8%B3%E9%A1%BA%E5%88%A9%E6%8D%A2%E5%B1%8A%E8%80%83%E8%99%91&#34;&gt;2012年不取消调控，还有房价维稳顺利换届考虑&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B4%BC%E5%9C%B0%E6%9C%80%E7%BB%88%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%A1%AB%E5%B9%B3%E5%A4%9A%E6%95%B0%E5%9F%8E%E5%B8%82%E6%98%AF%E6%97%A9%E4%B9%B0%E8%83%9C%E4%BA%8E%E6%99%9A%E4%B9%B0&#34;&gt;洼地最终都会被填平，多数城市是早买胜于晚买&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%A5%BF%E9%83%A8&#34;&gt;西部&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%9F%AD%E6%9C%9F%E6%B3%A2%E5%8A%A8%E5%B1%9E%E4%BA%8E%E6%AD%A3%E5%B8%B8%E7%8E%B0%E8%B1%A1%E9%9C%80%E8%A6%81%E5%85%B3%E6%B3%A8%E7%9A%84%E6%98%AF%E9%95%BF%E6%9C%9F%E8%B6%8B%E5%8A%BF&#34;&gt;短期波动属于正常现象，需要关注的是长期趋势&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%9A%84%E6%99%BA%E6%85%A7%E5%92%8C%E6%89%8D%E5%B9%B2%E5%86%B3%E5%AE%9A%E4%BA%86%E5%9B%BD%E5%AE%B6%E7%9A%84%E5%91%BD%E8%BF%90%E7%BB%9F%E5%B8%85%E7%9A%84%E6%99%BA%E6%85%A7%E5%92%8C%E6%89%8D%E5%B9%B2%E5%86%B3%E5%AE%9A%E4%BA%86%E5%86%9B%E9%98%9F%E7%9A%84%E5%91%BD%E8%BF%90%E8%80%8C%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%99%BA%E6%85%A7%E5%92%8C%E6%89%8D%E5%B9%B2%E5%86%B3%E5%AE%9A%E4%BA%86%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%91%BD%E8%BF%90&#34;&gt;领导人的智慧和才干决定了国家的命运，统帅的智慧和才干决定了军队的命运，而个人的智慧和才干决定了个人的命运&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%AF%B9%E4%BA%8E%E5%85%B7%E5%A4%87%E6%8A%95%E8%B5%84%E5%B1%9E%E6%80%A7%E7%9A%84%E5%95%86%E5%93%81%E4%BE%9B%E6%B1%82%E5%85%B3%E7%B3%BB%E6%98%AF%E6%8C%87%E8%B4%A7%E5%B8%81%E4%B8%8E%E5%95%86%E5%93%81%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB&#34;&gt;对于具备投资属性的商品，供求关系是指货币与商品之间的关系&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%97%A9%E4%B9%B0%E7%9A%84%E9%A3%8E%E9%99%A9%E5%B0%8F%E4%BA%8E%E6%99%9A%E4%B9%B0&#34;&gt;早买的风险小于晚买&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%B0%8F%E5%BC%80%E5%8F%91%E5%95%86%E7%9A%84%E6%88%BF%E5%AD%90%E8%83%BD%E4%B8%8D%E8%83%BD%E4%B9%B0&#34;&gt;小开发商的房子能不能买？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A4%A7%E5%85%B4%E5%9C%9F%E6%9C%A8%E6%90%9E%E5%BB%BA%E8%AE%BE%E7%9A%84%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E9%83%BD%E5%BA%95%E4%B8%8D%E4%BA%86&#34;&gt;大兴土木搞建设的城市，房价都底不了&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E8%80%81%E5%BC%8F%E7%A0%96%E6%B7%B7%E6%9D%BF%E6%A5%BC%E7%9A%84%E6%9C%80%E7%BB%88%E5%91%BD%E8%BF%90&#34;&gt;北京老式砖混板楼的最终命运？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%8A%8A%E6%88%BF%E4%B9%B0%E5%9C%A8zf%E8%BE%B9%E5%B7%AE%E4%B8%8D%E4%BA%86&#34;&gt;把房买在zf边，差不了&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A4%A9%E5%AD%90%E8%84%9A%E4%B8%8B%E4%BA%8C%E6%89%8B%E8%80%81%E6%88%BF%E4%B9%B0%E5%BE%97%E5%A5%BD%E6%8B%86%E8%BF%81%E8%A1%A5%E5%81%BF%E5%B0%91%E4%B8%8D%E4%BA%86&#34;&gt;天子脚下：二手老房买得好，拆迁补偿少不了&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#3%E4%B8%87%E5%85%A5%E6%89%8B%E5%8C%97%E4%BA%AC%E5%9B%9B%E7%8E%AF%E4%BD%A0%E4%B9%9F%E6%98%AF%E5%B9%B8%E8%BF%90%E7%9A%84&#34;&gt;3万入手北京四环，你也是幸运的&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%90%9B%E4%B8%BA%E8%B4%B5%E5%95%86%E4%BA%BA%E6%8A%80%E5%B7%A5%E6%AC%A1%E4%B9%8B%E5%86%9C%E6%B0%91%E4%B8%BA%E8%BD%BB%E6%89%93%E5%B7%A5%E4%BA%BA%E4%B8%BA%E5%BA%95&#34;&gt;君为贵，商人、技工次之，农民为轻，打工人为底&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#10%E5%B9%B4%E7%9A%84%E8%B0%83%E6%8E%A7%E5%92%8C08%E5%B9%B4%E8%B0%83%E6%8E%A7%E7%9A%84%E5%8C%BA%E5%88%AB%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%BA%E4%BC%9A&#34;&gt;10年的调控和08年调控的区别、带来的影响、机会&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8E%86%E5%8F%B2%E6%80%BB%E6%98%AF%E6%83%8A%E4%BA%BA%E7%9A%84%E7%9B%B8%E4%BC%BC&#34;&gt;历史总是惊人的相似&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E6%88%BF%E8%B4%B7&#34;&gt;关于房贷&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E5%8D%96%E5%95%86%E5%93%81%E6%88%BF%E4%BC%9A%E9%80%90%E6%B8%90%E5%8F%98%E6%88%90%E5%AF%8C%E4%BA%BA%E7%9A%84%E6%B8%B8%E6%88%8F&#34;&gt;买卖商品房会逐渐变成富人的游戏&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#zf%E8%BF%98%E6%98%AF%E6%9B%B4%E5%9C%A8%E6%84%8F%E5%86%9C%E6%B0%91%E9%97%AE%E9%A2%98&#34;&gt;zf还是更在意农民问题&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B2%BB%E5%9B%BD%E9%9C%80%E8%A6%81%E7%94%A8%E8%B4%AA%E5%AE%98%E5%8F%8D%E8%B4%AA%E5%AE%98&#34;&gt;治国需要用贪官、反贪官&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E5%85%B8%E5%9E%8B%E4%BB%A3%E8%A1%A8&#34;&gt;二线城市典型代表&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E5%95%86%E9%93%BA%E5%92%8C%E4%BD%8F%E5%AE%85%E6%8A%95%E8%B5%84&#34;&gt;关于商铺和住宅投资&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E6%88%BF%E4%BA%A7%E8%B0%83%E6%8E%A7&#34;&gt;关于房产调控&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E6%88%BF%E4%BA%A7%E7%A8%8E&#34;&gt;关于房产税&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%80%81%E5%85%AC%E6%88%BF%E7%9A%84%E6%8B%86%E8%BF%81%E9%97%AE%E9%A2%98&#34;&gt;老公房的拆迁问题&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%8A%95%E8%B5%84%E6%96%B0%E6%88%BF%E8%BF%98%E6%98%AF%E8%80%81%E5%85%AC%E6%88%BF&#34;&gt;投资新房还是老公房&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%AB%98%E7%AB%AF%E7%9B%98%E6%9C%89%E6%88%BF%E4%BB%B7%E5%B8%A6%E5%8A%A8%E4%BD%9C%E7%94%A8&#34;&gt;高端盘有房价带动作用&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E6%88%BF%E5%92%8C%E6%B2%A1%E4%B9%B0%E6%88%BF%E7%9A%84%E5%B7%AE%E8%B7%9D&#34;&gt;买房和没买房的差距&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BA%A7%E4%BA%A4%E6%98%93%E5%8E%86%E5%8F%B2&#34;&gt;房产交易历史&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A5%91%E7%A8%8E%E7%9A%84%E5%8E%86%E5%8F%B2&#34;&gt;契税的历史&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%BB%89%E7%A7%9F%E6%88%BF%E7%9A%84%E5%8E%86%E5%8F%B2&#34;&gt;廉租房的历史&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8E%86%E5%8F%B2%E4%B8%8A%E4%B9%B0%E6%88%BF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%9D%E4%BB%A3&#34;&gt;历史上买房最好的朝代&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%9C%AA%E6%9D%A5%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95&#34;&gt;未来房地产市场的发展&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BA%A7%E5%88%B0%E6%9C%9F&#34;&gt;房产到期&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E5%AD%A6%E5%8C%BA%E6%88%BF%E9%97%AE%E9%A2%98&#34;&gt;买学区房问题&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8E%86%E5%8F%B2%E7%9A%84%E7%BB%93%E5%B1%80&#34;&gt;历史的结局&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%BA%E5%8F%A3%E6%99%AE%E6%9F%A5&#34;&gt;人口普查&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%98%86%E5%B1%B1%E6%88%BF%E4%BB%B7%E5%88%86%E6%9E%90%E4%B8%8E%E4%B9%B0%E6%88%BF&#34;&gt;昆山房价分析与买房&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%A7%9F%E5%94%AE%E6%AF%94%E8%BF%99%E4%B9%88%E4%BD%8E--%E5%90%8C%E5%B0%8F%E5%8C%BA%E4%B9%B0%E4%B8%80%E5%A5%97%E5%A4%A7%E8%BF%98%E6%98%AF%E4%B8%A4%E5%A5%97%E5%B0%8F&#34;&gt;为什么现在租售比这么低 &amp;amp; 同小区买一套大还是两套小&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E6%88%BF%E9%9A%BE%E4%B9%8B%E5%9B%9E%E4%B8%8D%E5%8E%BB%E7%9A%84%E4%B9%A1--%E6%8B%89%E7%BE%8E%E4%BA%BA%E8%BF%87%E5%BE%97%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E5%A5%BD&#34;&gt;买房难之回不去的乡 &amp;amp; 拉美人过得比你想象的好&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%A7%9F%E6%88%BF%E7%9A%84%E8%8B%A6&#34;&gt;租房的苦&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E8%A5%BF%E4%B8%89%E6%97%97&#34;&gt;北京西三旗&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E6%88%BF%E4%BA%89%E5%8F%96%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D&#34;&gt;买房争取一步到位&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%94%B6%E5%85%A5%E7%A8%B3%E5%AE%9A%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%A6%82%E4%BD%95%E4%B9%B0%E6%88%BF&#34;&gt;收入稳定的家庭如何买房&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E5%9B%9E%E9%BE%99%E8%A7%82&#34;&gt;北京回龙观&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%B7%E6%AC%BE%E8%BF%98%E6%98%AF%E5%85%A8%E6%AC%BE&#34;&gt;贷款还是全款&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#00%E5%90%8E%E7%9A%84%E4%B9%B0%E6%88%BF%E9%9C%80%E6%B1%82%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5&#34;&gt;00后的买房需求从何而来&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%84%8F%E5%A4%A7%E5%88%A9%E7%9A%84%E4%BD%8F%E6%88%BF%E6%A8%A1%E5%BC%8F&#34;&gt;意大利的住房模式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AD%A6%E6%9C%AF&#34;&gt;中国的学术&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E8%BF%9C%E6%B4%8B%E5%B1%B1%E6%B0%B4&#34;&gt;北京远洋山水&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%B2%BE%E8%8B%B1%E7%9A%84%E8%B5%84%E4%BA%A7&#34;&gt;精英的资产&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E4%B8%89%E7%8E%AF%E5%A1%94%E6%A5%BC&#34;&gt;北京三环塔楼&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B9%B0%E6%88%BF%E7%9A%84%E6%9C%AA%E6%9D%A5&#34;&gt;普通人买房的未来&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E6%88%BF%E4%BB%B7%E8%B6%85%E9%A6%99%E6%B8%AF&#34;&gt;北京房价超香港&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%96%B0%E9%97%BB%E4%B8%8D%E5%8F%AF%E4%BF%A1%E7%B2%BE%E8%8B%B1%E7%9A%84%E6%9C%89%E9%92%B1%E6%98%AF%E4%BD%A0%E6%83%B3%E8%B1%A1%E4%B8%8D%E5%88%B0%E7%9A%84&#34;&gt;中国的新闻不可信，精英的有钱是你想象不到的&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#40%E5%B9%B4%E7%9A%84%E5%95%86%E4%BD%8F%E6%88%BF%E6%B2%A1%E6%9C%8970%E5%B9%B4%E7%9A%84%E4%BD%8F%E5%AE%85%E6%9C%89%E6%8A%95%E8%B5%84%E4%BB%B7%E5%80%BC&#34;&gt;40年的商住房没有70年的住宅有投资价值&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%99%90%E8%B4%B7%E5%AF%B9%E7%B2%BE%E8%8B%B1%E6%B2%A1%E7%94%A8&#34;&gt;限贷对精英没用&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A4%96%E6%B1%87%E7%AE%A1%E5%88%B6%E5%86%B3%E5%AE%9A%E4%BA%86%E5%A4%A7%E9%83%A8%E5%88%86%E6%9C%89%E9%92%B1%E4%BA%BA%E5%8F%AA%E8%83%BD%E5%9C%A8%E5%9B%BD%E5%86%85%E6%8A%95%E8%B5%84&#34;&gt;外汇管制决定了大部分有钱人只能在国内投资&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A4%96%E5%9B%BD%E5%9B%BD%E7%B1%8D%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%B4%BB%E6%98%AF%E6%9B%B4%E5%A5%BD%E7%9A%84%E9%80%89%E6%8B%A9&#34;&gt;外国国籍在中国生活是更好的选择&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%88%86%E6%9C%9F%E4%BB%98%E6%AC%BE%E4%B9%B0%E6%88%BF%E5%A6%82%E6%9E%9C%E6%88%BF%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%BE%88%E5%AE%B9%E6%98%93%E6%AF%81%E7%BA%A6--%E8%87%AA%E4%BD%8F%E8%A6%81%E9%80%89%E5%A4%A7%E5%93%81%E7%89%8C%E5%BC%80%E5%8F%91%E5%95%86&#34;&gt;分期付款买房，如果房价上涨，很容易毁约 &amp;amp; 自住要选大品牌开发商&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%E5%92%8C%E6%88%BF%E4%BB%B7%E7%9A%84%E5%85%B3%E7%B3%BB&#34;&gt;通货膨胀和房价的关系&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8D%97%E4%BA%AC%E4%B9%B0%E6%88%BF%E5%88%86%E6%9E%90--%E4%B9%B0%E6%88%BF%E8%A6%81%E5%81%9A%E5%A5%BD%E8%B0%83%E6%9F%A5%E5%88%86%E6%9E%90%E5%B7%A5%E4%BD%9C&#34;&gt;南京买房分析 &amp;amp; 买房要做好调查分析工作&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E5%8D%8E%E6%B8%85%E5%98%89%E5%9B%AD&#34;&gt;北京华清嘉园&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%9D%E4%BB%A3%E6%9B%B4%E6%9B%BF&#34;&gt;中国的朝代更替&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%AD%E5%9B%BD%E5%8F%AF%E4%BB%A5%E6%97%A0%E9%99%90%E5%8D%B0%E9%92%9E%E5%90%97&#34;&gt;中国可以无限印钞吗&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%AF%BB%E5%8F%B2%E8%AF%BB%E7%9A%84%E4%B8%8D%E6%98%AF%E6%95%85%E4%BA%8B%E8%BF%98%E6%98%AF%E6%89%BE%E5%8E%86%E5%8F%B2%E8%A7%84%E5%BE%8B%E4%BB%A5%E5%8F%A4%E9%89%B4%E4%BB%8A&#34;&gt;读史读的不是故事，还是找历史规律，以古鉴今&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%AF%9B%E5%A4%AA%E9%98%B3%E5%BE%80%E4%BA%8B&#34;&gt;毛太阳往事&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%85%B4&#34;&gt;北京大兴&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%B5%E9%98%B3&#34;&gt;贵阳&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%AF%8C%E4%BA%BA%E8%B6%8A%E5%AF%8C%E7%A9%B7%E4%BA%BA%E8%B6%8A%E7%A9%B7&#34;&gt;富人越富、穷人越穷&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%E7%9A%84%E5%BD%A2%E6%88%90%E5%8E%9F%E5%9B%A0&#34;&gt;通货膨胀的形成原因&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B7%B1%E5%9C%B3--%E6%98%86%E6%98%8E%E4%BB%87%E4%B9%A6%E8%AE%B0--%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%E4%BD%93%E5%88%B6%E5%86%85%E9%AB%98%E6%9E%95%E6%97%A0%E5%BF%A7%E4%BD%93%E5%88%B6%E5%A4%96%E8%87%AA%E6%B1%82%E5%A4%9A%E7%A6%8F&#34;&gt;深圳 &amp;amp; 昆明仇书记 &amp;amp; 通货膨胀体制内高枕无忧、体制外自求多福&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%95%BF%E6%98%A5&#34;&gt;长春&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%9B%E5%B1%B1&#34;&gt;佛山&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%A6%96%E4%BB%98%E6%8F%90%E9%AB%98%E7%9A%84%E9%80%BB%E8%BE%91&#34;&gt;首付提高的逻辑&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82&#34;&gt;四线城市&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%8B%8F%E5%B7%9E%E5%B7%A5%E4%B8%9A%E5%9B%AD&#34;&gt;苏州工业园&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E5%88%A9%E7%8E%87&#34;&gt;住房公积金利率&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B5%8E%E5%8D%97--%E5%A4%A7%E8%A7%84%E5%BE%8B%E6%8B%86%E8%BF%81%E7%9A%84%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E4%B8%8D%E4%BC%9A%E4%B8%8B%E9%99%8D&#34;&gt;济南 &amp;amp; 大规律拆迁的城市房价不会下降&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%AC%E5%8A%A1%E5%91%98%E5%B0%8F%E5%8C%BA%E7%89%9B%E9%80%BC&#34;&gt;公务员小区牛逼&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E5%B1%8B%E6%9C%9D%E5%90%91%E5%8F%AA%E8%A6%81%E4%B8%8D%E6%98%AF%E7%BA%AF%E5%8C%97%E8%A5%BF%E5%B0%B1%E8%A1%8C--%E4%B9%B0%E6%88%BF%E9%A6%96%E9%80%89%E5%B8%82%E4%B8%AD%E5%BF%83%E5%85%AC%E5%9B%AD%E5%9C%B0%E4%BA%A7&#34;&gt;房屋朝向只要不是纯北西就行 &amp;amp; 买房首选市中心、公园地产&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#zf%E6%90%AC%E8%BF%81&#34;&gt;zf搬迁&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BF%84%E7%BD%97%E6%96%AF&#34;&gt;俄罗斯&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%8F%A0%E6%B5%B7--%E5%94%AF%E4%B8%80%E8%87%AA%E4%BD%8F%E6%88%BF%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%8A%95%E8%B5%84--%E8%B0%83%E6%8E%A7%E6%98%AF%E6%9C%80%E4%BD%B3%E7%9A%84%E9%80%89%E6%88%BF%E6%97%B6%E6%9C%BA&#34;&gt;珠海 &amp;amp; 唯一自住房不只是投资 &amp;amp; 调控是最佳的选房时机&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%BB%8F%E6%B5%8E%E5%B4%A9%E6%BA%83%E6%9C%80%E5%90%8E%E6%8E%A5%E7%9B%98%E7%9A%84%E6%98%AF%E8%80%81%E7%99%BE%E5%A7%93&#34;&gt;经济崩溃，最后接盘的是老百姓&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%91%BD%E8%BF%90%E4%B9%8B%E7%9F%9B&#34;&gt;命运之矛&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%99%A4%E9%9D%9E%E5%A4%96%E6%97%8F%E5%85%A5%E4%BE%B5%E6%88%96%E5%85%A8%E5%9B%BD%E5%A4%A7%E9%A5%A5%E8%8D%92%E5%90%A6%E5%88%99%E5%8F%8C%E8%BD%A8%E5%88%B6%E5%86%B3%E5%AE%9A%E4%BA%86%E6%88%BF%E4%BB%B7%E4%B8%8D%E4%BC%9A%E5%B4%A9%E7%9B%98&#34;&gt;除非外族入侵或全国大饥荒，否则双轨制决定了房价不会崩盘&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#kkndme%E8%81%8A%E5%8C%97%E5%AE%8B%E5%94%90%E6%9C%9D&#34;&gt;kkndme聊北宋、唐朝&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%AE%8B%E4%BB%A3%E6%88%BF%E5%A5%B4&#34;&gt;宋代房奴&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#zg%E6%B0%91%E4%B8%BB&#34;&gt;ZG民主&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%8E%8B%E5%AE%89%E7%9F%B3%E7%9A%84%E9%9D%92%E8%8B%97%E6%B3%95%E4%B9%8B%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%94%BF%E7%AD%96%E7%9A%84%E5%8A%A8%E6%9C%BA&#34;&gt;王安石的青苗法之国家出政策的动机&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BB%80%E4%B9%88%E6%98%AF%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%B9%B3&#34;&gt;什么是社会公平&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%BF%98%E6%98%AF%E6%9C%89%E5%BE%88%E5%A4%9A%E6%9C%89%E9%92%B1%E4%BA%BA&#34;&gt;还是有很多有钱人&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8F%8C%E8%BD%A8%E5%88%B6%E4%B9%8B%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E7%A6%8F%E5%88%A9&#34;&gt;双轨制之体制内的福利&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%BC%80%E5%8F%91%E5%95%86%E6%80%9D%E7%BB%B4&#34;&gt;开发商思维&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%86%9C%E6%B0%91%E6%94%BF%E6%9D%83%E7%9A%84%E7%BC%BA%E7%82%B9&#34;&gt;农民政权的缺点&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%83%91%E5%B7%9E%E6%9C%89%E5%89%8D%E6%99%AF&#34;&gt;郑州有前景&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%AC%E5%9B%AD%E5%9C%B0%E4%BA%A7%E6%98%AF%E7%A8%80%E7%BC%BA%E8%B5%84%E6%BA%90&#34;&gt;公园地产是稀缺资源&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%BC%A0%E7%8C%AE%E5%BF%A0%E5%B1%A0%E5%B7%9D&#34;&gt;张献忠屠川&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B4%AA%E7%A7%80%E5%85%A8%E9%BB%84%E5%B7%A2%E6%9D%8E%E8%87%AA%E6%88%90&#34;&gt;洪秀全、黄巢、李自成&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%9C%B1%E5%85%83%E7%92%8B&#34;&gt;朱元璋&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%9B%B9%E5%8F%82%E6%B2%BB%E5%9B%BD&#34;&gt;曹参治国&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%99%81%E9%94%99&#34;&gt;晁错&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B0%91%E8%90%A5%E5%B0%8F%E4%BC%81%E4%B8%9A%E7%9A%84%E8%80%81%E6%9D%BF%E5%92%8C%E6%89%93%E5%B7%A5%E8%80%85&#34;&gt;民营小企业的老板和打工者&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%83%AD%E8%A7%A3&#34;&gt;郭解&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#2010%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7&#34;&gt;2010年的中国房地产&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E5%A5%B4%E7%AE%97%E4%B8%8D%E4%B8%8A%E4%B8%8D%E5%B9%B8%E7%9B%B8%E5%BD%93%E5%BD%93%E4%B8%8D%E4%BA%86%E6%89%8D%E7%AE%97&#34;&gt;房奴算不上不幸，相当当不了才算&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%B2%BE%E8%8B%B1%E4%BA%BA%E7%BE%A4%E7%9A%84%E5%B9%B3%E5%9D%87%E6%94%B6%E5%85%A5%E5%86%B3%E5%AE%9A%E6%88%BF%E4%BB%B7&#34;&gt;精英人群的平均收入决定房价&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%86%85%E5%9C%B0%E4%B8%8D%E6%98%AF%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%8D%97&#34;&gt;内地不是香港、海南&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8E%86%E5%8F%B2%E6%98%AF%E4%B8%80%E9%9D%A2%E9%95%9C%E5%AD%90&#34;&gt;历史是一面镜子&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E6%88%BF%E4%B8%80%E6%AC%A1%E6%80%A7%E5%88%B0%E4%BD%8D%E6%AF%94%E8%BE%83%E5%A5%BD&#34;&gt;买房一次性到位比较好&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A4%96%E6%B1%87%E7%AE%A1%E5%88%B6&#34;&gt;外汇管制&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%80%E7%BA%BF%E5%92%8C%E4%BA%8C%E7%BA%BF&#34;&gt;一线和二线&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%90%95%E5%90%8E%E7%AF%A1%E6%9D%83&#34;&gt;吕后篡权&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%B0%8F%E4%BA%A7%E6%9D%83%E6%88%BF&#34;&gt;小产权房&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%95%86%E9%93%BA%E5%92%8C%E4%BD%8F%E5%AE%85&#34;&gt;商铺和住宅&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%93%E5%88%B6%E5%86%85%E5%A4%96&#34;&gt;体制内外&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#2010%E5%B9%B4%E7%9A%84%E4%B8%8A%E6%B5%B7&#34;&gt;2010年的上海&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%94%B6%E7%B4%A7%E4%BD%8F%E6%88%BF%E8%B4%B7%E6%AC%BE&#34;&gt;收紧住房贷款&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E6%88%BF%E7%89%A9%E4%B8%9A%E4%B8%8E%E6%88%BF%E8%B4%B7&#34;&gt;买房：物业与房贷&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A5%B8%E8%87%A3%E8%94%A1%E4%BA%AC&#34;&gt;奸臣蔡京&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%8428%E5%8E%9F%E5%88%99&#34;&gt;体制内的28原则&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%BE%E8%B0%8A&#34;&gt;贾谊&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#kkndme-%E6%8E%A8%E8%8D%90%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%A6&#34;&gt;kkndme 推荐的历史书&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A6%81%E6%97%A9%E4%B9%B0%E6%88%BF&#34;&gt;年轻人要早买房&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%8D%E8%A6%81%E4%BD%8E%E4%BC%B0%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80&#34;&gt;不要低估通货膨胀&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%8C%E4%B8%89%E7%BA%BF%E5%9F%8E%E5%B8%82%E4%B8%8E%E9%87%8D%E5%BA%86&#34;&gt;二三线城市与重庆&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9F%8E%E5%8C%BA%E5%92%8C%E9%83%8A%E5%8C%BA&#34;&gt;城区和郊区&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%AE%88%E7%9D%80%E9%87%91%E7%A2%97%E8%A6%81%E9%A5%AD%E5%90%83&#34;&gt;守着金碗要饭吃&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%BA%E5%88%B6%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%BA%BA%E5%B0%B1%E6%98%AF%E5%88%B6%E5%BA%A6&#34;&gt;人制的社会，人就是制度&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%87%86%E5%85%AC%E5%8A%A1%E5%91%98%E7%9A%84%E5%A5%BD%E5%A4%84&#34;&gt;准公务员的好处&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%B0%8F%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E4%BC%9A%E5%9B%A0%E4%B8%BA%E4%BA%BA%E6%B0%91%E5%B8%81%E8%B4%AC%E5%80%BC%E6%B6%A8%E4%BB%B7%E4%BD%86%E4%BE%9D%E7%84%B6%E9%9A%BE%E5%8F%98%E7%8E%B0&#34;&gt;小城市房价会因为人民币贬值涨价，但依然难变现&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%80%E7%BA%BF%E6%9D%AD%E5%B7%9E&#34;&gt;一线杭州&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%8C%E4%B8%89%E7%BA%BF%E5%9F%8E%E5%B8%82%E7%9A%84%E5%8F%91%E5%B1%95%E9%9D%A0%E6%8B%86%E8%BF%81&#34;&gt;二三线城市的发展靠拆迁&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%BD%AC%E7%AF%87%E6%96%87%E7%AB%A0%E4%B8%80%E4%B8%AA%E5%BF%BD%E6%82%A0%E4%BA%86%E5%87%A0%E4%BA%BF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BC%AA%E6%A6%82%E5%BF%B5%E6%89%80%E8%B0%93%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%B3%A1%E6%B2%AB&#34;&gt;转篇文章：一个忽悠了几亿中国人的伪概念：所谓“中国房地产泡沫”&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%8B%86%E8%BF%81%E8%A1%A5%E5%81%BF&#34;&gt;拆迁补偿&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9F%8E%E5%B8%82%E5%BA%95%E5%B1%82&#34;&gt;城市底层&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9E%84%E6%96%AD%E4%BC%81%E4%B8%9A&#34;&gt;垄断企业&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%86%9C%E6%9D%91%E8%87%AA%E6%9D%A5%E6%B0%B4&#34;&gt;农村自来水&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%A2%81%E7%9B%8E&#34;&gt;袁盎&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%8C%E4%B8%89%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%80%89%E6%96%B0%E5%9F%8E%E8%BF%98%E6%98%AF%E8%80%81%E5%9F%8E&#34;&gt;二三线城市，选新城还是老城&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%99%AE%E9%80%9A%E4%BA%BA%E6%89%8B%E4%B8%8A%E9%97%B2%E9%92%B1%E4%B8%8D%E5%A4%9A%E7%9A%84%E4%BA%BA%E8%A2%AB%E5%89%A5%E5%89%8A&#34;&gt;在中国，普通人手上闲钱不多的人被剥削&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%89%E5%88%86%E5%A4%A9%E6%B3%A8%E5%AE%9A%E4%B8%83%E5%88%86%E9%9D%A0%E6%89%93%E6%8B%BC&#34;&gt;三分天注定，七分靠打拼&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%BA%E7%9A%84%E5%89%8D%E7%A8%8B%E6%9C%89%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%8D%E6%8E%8C%E6%8F%A1%E5%9C%A8%E8%87%AA%E5%B7%B1%E6%89%8B%E9%87%8C&#34;&gt;人的前程有的时候不掌握在自己手里&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B2%B3%E5%8D%97%E9%83%91%E5%B7%9E%E4%B8%8E%E6%B4%9B%E9%98%B3&#34;&gt;河南郑州与洛阳&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%9D%AD%E5%B7%9E&#34;&gt;杭州&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%A5%BF%E5%AE%89%E4%B8%8E%E9%87%8D%E5%BA%86&#34;&gt;西安与重庆&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B0%A2%E5%9B%BD%E4%B8%AD%E7%A9%BA%E7%BD%AE%E7%8E%87&#34;&gt;谢国中「空置率」&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%89%93%E5%B7%A5%E4%B8%8D%E5%A6%82%E6%9C%89%E4%B8%80%E6%8A%80%E4%B9%8B%E9%95%BF%E7%9A%84%E5%B0%8F%E8%80%81%E6%9D%BF&#34;&gt;打工不如有一技之长的小老板&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%80%E7%BA%BF%E4%BA%8C%E7%BA%BF%E7%9A%84%E7%94%9F%E6%B4%BB&#34;&gt;一线、二线的生活&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%AE%B2%E6%95%85%E4%BA%8B%E5%90%AB%E6%B2%99%E5%B0%84%E5%BD%B1zg%E4%B9%8B%E6%88%BF%E5%AD%90%E4%B8%8D%E5%B1%9E%E4%BA%8E%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E&#34;&gt;讲故事含沙射影ZG之房子不属于市场经济&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BB%80%E4%B9%88%E6%98%AF%E5%A5%BD%E7%9A%84%E6%94%BF%E7%AD%96&#34;&gt;什么是好的政策&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%9D%8E%E5%95%86%E9%9A%90%E6%B8%A3%E7%94%B7%E7%A5%96%E5%B8%88%E7%88%B7&#34;&gt;李商隐「渣男」祖师爷&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%A5%BF%E4%BA%94%E7%8E%AF%E5%86%85%E7%9A%84%E5%88%AB%E5%A2%85%E6%98%AF%E7%9B%B8%E5%BD%93%E7%A8%80%E7%BC%BA%E7%9A%84%E8%B5%84%E6%BA%90&#34;&gt;西五环内的别墅，是相当稀缺的资源&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A5%B8%E8%87%A3%E8%B4%BE%E4%BC%BC%E9%81%93&#34;&gt;“奸臣”贾似道&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E6%8B%86%E8%BF%81&#34;&gt;关于拆迁&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BF%9D%E9%92%93%E4%BA%8B%E4%BB%B6%E4%B9%8B%E6%AD%BB%E8%A6%81%E9%9D%A2%E5%AD%90%E6%B4%BB%E5%8F%97%E7%BD%AA&#34;&gt;保钓事件之死要面子活受罪&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%8D%E5%8F%AF%E8%83%BD%E8%BD%AF%E7%9D%80%E9%99%86&#34;&gt;中国的房地产不可能软着陆&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E8%B4%AD%E4%B9%B0%E7%BB%8F%E6%B5%8E%E9%80%82%E7%94%A8%E6%88%BF&#34;&gt;关于购买经济适用房&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/life/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9C%B0%E7%BA%A7%E5%B8%82%E4%B9%B0%E6%88%BF&#34;&gt;地级市买房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B0%91%E7%94%9F%E9%97%AE%E9%A2%98&#34;&gt;民生问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BA%A7%E7%A8%8E%E7%9A%84%E5%88%B6%E5%AE%9A%E5%8E%9F%E5%88%99&#34;&gt;房产税的制定原则&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%BB%B4%E7%A8%B3%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BA%BA%E6%B0%91%E8%83%BD%E5%90%83%E9%A5%B1%E9%A5%AD&#34;&gt;维稳的本质是人民能吃饱饭&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%AC%E7%A7%9F%E6%88%BF%E6%98%AF%E4%B8%BA%E4%BD%93%E5%88%B6%E5%86%85%E6%9C%8D%E5%8A%A1%E7%9A%84&#34;&gt;公租房是为体制内服务的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BA%A7%E7%A8%8E%E4%B8%80%E5%AE%9A%E4%BC%9A%E8%BD%AC%E5%AB%81%E7%BB%99%E7%A7%9F%E6%88%BF%E4%BA%BA&#34;&gt;房产税一定会转嫁给租房人&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%B7%A8%E5%A4%A7%E7%9A%84%E7%A8%8E%E6%94%B6%E6%B6%88%E8%80%97%E4%B9%9F%E5%86%B3%E5%AE%9A%E4%BA%86gdp%E5%BF%85%E9%A1%BB%E5%BF%AB%E9%80%9F%E5%A2%9E%E9%95%BF--%E5%85%AC%E5%8A%A1%E5%91%98%E8%B6%8A%E7%B2%BE%E5%87%8F%E8%B6%8A%E5%A4%9A&#34;&gt;巨大的税收消耗也决定了GDP必须快速增长 &amp;amp; 公务员越精减越多&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B0%83%E6%8E%A7%E7%9A%84%E5%A5%BD%E5%A4%84%E6%98%AF%E8%AE%A9zf%E5%88%A9%E7%9B%8A%E6%9C%80%E5%A4%A7%E5%8C%96%E9%98%B2%E8%8C%83%E9%87%91%E8%9E%8D%E9%A3%8E%E9%99%A9&#34;&gt;调控的好处是让zf利益最大化&amp;amp;防范金融风险&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9E%84%E6%96%AD%E5%8F%AF%E4%BB%A5%E6%8E%A7%E5%88%B6%E4%BB%B7%E6%A0%BC%E7%BB%B4%E6%8C%81%E7%A8%B3%E5%AE%9A&#34;&gt;垄断可以控制价格，维持稳定&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E4%BD%8F%E6%88%BF%E9%97%AE%E9%A2%98%E6%9C%89%E5%9B%BD%E5%AE%B6%E4%BF%9D%E9%A9%BE%E6%8A%A4%E8%88%AA&#34;&gt;体制内的住房问题有国家保驾护航&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BE%9D%E9%9D%A0%E4%BD%86%E5%8F%88%E4%B8%8D%E8%83%BD%E5%AE%8C%E5%85%A8%E4%BE%9D%E9%9D%A0%E5%BC%80%E5%8F%91%E5%95%86%E5%BB%BA%E5%85%AC%E7%A7%9F%E6%88%BF&#34;&gt;依靠但又不能完全依靠开发商建公租房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E4%BD%8F%E6%88%BF%E9%97%AE%E9%A2%98%E4%B8%8D%E9%9A%BE%E8%A7%A3%E5%86%B3&#34;&gt;体制内的住房问题不难解决&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%A7%A3%E5%86%B3%E4%BD%93%E5%88%B6%E5%A4%96%E7%9A%84%E4%BD%8F%E6%88%BF%E9%97%AE%E9%A2%98%E5%9B%BD%E5%AE%B6%E5%9E%84%E6%96%AD%E7%BB%86%E6%B0%B4%E9%95%BF%E6%B5%81%E6%94%B6%E7%A7%9F&#34;&gt;解决体制外的住房问题：国家垄断，细水长流收租&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B9%B0%E5%BE%97%E8%B5%B7%E4%BC%98%E8%B4%A8%E5%95%86%E5%93%81%E6%88%BF%E5%B0%B1%E5%B0%BD%E6%97%A9%E4%B9%B0%E6%8A%8A&#34;&gt;普通人买得起「优质商品房」就尽早买把&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%95%86%E5%93%81%E6%88%BF%E5%92%8C%E5%85%AC%E7%A7%9F%E6%88%BF%E7%9A%84%E5%8C%BA%E5%88%AB&#34;&gt;商品房和公租房的区别&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%8F%90%E8%AE%AE%E9%80%9A%E8%BF%87%E5%BE%81%E6%99%AE%E7%A8%8E%E8%B0%83%E8%8A%82%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D%E4%B8%8D%E6%98%AF%E5%82%BB%E5%B0%B1%E6%98%AF%E5%9D%8F%E5%88%B6%E5%AE%9A%E6%94%BF%E7%AD%96%E7%9A%84%E4%BA%BA%E4%B8%8D%E4%BC%9A%E8%AE%A9%E6%94%BF%E7%AD%96%E9%92%88%E5%AF%B9%E8%87%AA%E5%B7%B1%E9%82%A3%E4%B9%88%E6%94%BF%E7%AD%96%E9%83%BD%E6%98%AF%E8%B0%81%E5%88%B6%E5%AE%9A%E7%9A%84%E5%91%A2&#34;&gt;提议通过征普税调节贫富差距，不是傻，就是坏（制定政策的人不会让政策针对自己，那么政策都是谁制定的呢）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B0%83%E6%8E%A7%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%BD%B1%E5%93%8D&#34;&gt;调控带来的影响&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%86%9C%E4%BA%A7%E5%93%81%E7%9A%84%E4%BB%B7%E6%A0%BC%E5%85%B3%E7%B3%BB%E5%88%B0%E5%BD%B1%E5%93%8D%E7%A8%B3%E5%AE%9A%E7%9A%84%E5%90%83%E9%A5%AD%E9%97%AE%E9%A2%98&#34;&gt;农产品的价格关系到影响稳定的吃饭问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%86%9C%E4%BA%A7%E5%93%81%E4%BB%B7%E6%A0%BC%E7%9A%84%E6%8A%AC%E5%A4%B4%E4%BC%9A%E5%AF%BC%E8%87%B4%E7%89%A9%E4%BB%B7%E5%85%A8%E9%9D%A2%E4%B8%8A%E6%B6%A8%E4%BD%86%E5%9B%BD%E5%AE%B6%E4%B8%8D%E4%BC%9A%E5%9D%90%E8%A7%86%E4%B8%8D%E7%AE%A1%E4%B8%94%E6%9C%89%E8%83%BD%E5%8A%9B%E7%AE%A1&#34;&gt;农产品价格的抬头会导致物价全面上涨，但国家不会坐视不管且有能力管&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B5%84%E9%87%91%E4%BC%9A%E5%9C%A8%E4%BC%98%E8%B4%A8%E8%B5%84%E4%BA%A7%E4%B9%8B%E9%97%B4%E6%B5%81%E5%8A%A8%E8%80%8C%E5%86%B3%E5%AE%9A%E4%BC%98%E8%B4%A8%E8%B5%84%E4%BA%A7%E4%BB%B7%E6%A0%BC%E7%9A%84%E6%98%AF%E7%B2%BE%E8%8B%B1%E9%98%B6%E5%B1%82%E7%9A%84%E8%B4%AD%E4%B9%B0%E5%8A%9B&#34;&gt;资金会在优质资产之间流动，而决定优质资产价格的是精英阶层的购买力&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B5%84%E9%87%91%E6%B5%81%E5%90%91%E8%A7%84%E5%BE%8B%E5%86%B3%E5%AE%9A%E4%BA%86%E5%86%9C%E4%BA%A7%E5%93%81%E5%92%8C%E8%B5%84%E4%BA%A7%E4%BB%B7%E6%A0%BC%E6%80%BB%E6%9C%89%E4%B8%80%E4%B8%AA%E8%A6%81%E6%B6%A8%E4%BA%BA%E4%B8%BA%E5%8E%8B%E5%88%B6%E4%B8%80%E5%AE%9A%E4%BC%9A%E6%8C%89%E4%B8%8B%E8%91%AB%E8%8A%A6%E6%B5%AE%E8%B5%B7%E7%93%A2&#34;&gt;资金流向规律决定了农产品和资产价格总有一个要涨，人为压制，一定会按下葫芦浮起瓢&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B5%84%E9%87%91%E6%B5%81%E5%90%91%E8%A7%84%E5%BE%8B%E5%86%B3%E5%AE%9A%E4%BA%86%E6%B4%BC%E5%9C%B0%E4%B8%8D%E4%BC%9A%E4%B8%80%E7%9B%B4%E6%98%AF%E6%B4%BC%E5%9C%B0&#34;&gt;资金流向规律决定了洼地不会一直是洼地&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A4%A7%E5%9F%8E%E5%B8%82%E5%AF%B9%E8%BF%91%E8%B7%9D%E7%A6%BB%E7%9A%84%E5%B0%8F%E5%9F%8E%E5%B8%82%E6%9C%89%E8%99%B9%E5%90%B8%E6%95%88%E5%BA%94&#34;&gt;大城市对近距离的小城市有虹吸效应&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%86%B3%E5%AE%9A%E6%88%BF%E4%BB%B7%E7%9A%84%E5%9B%A0%E7%B4%A0%E6%9C%89%E5%BE%88%E5%A4%9A%E5%85%B7%E4%BD%93%E6%83%85%E5%86%B5%E5%85%B7%E4%BD%93%E5%88%86%E6%9E%90&#34;&gt;决定房价的因素有很多，具体情况具体分析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%BA%8E%E9%92%B1%E8%80%8C%E8%A8%80%E7%9A%84%E4%B8%8D%E6%98%AF%E7%9B%B8%E5%AF%B9%E4%BA%8E%E5%AE%9E%E9%99%85%E8%B4%AD%E4%B9%B0%E5%8A%9B%E8%80%8C%E8%A8%80%E7%9A%84&#34;&gt;房价暴涨是相对于钱而言的，不是相对于实际购买力而言的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9C%9F%E5%9C%B0%E4%B8%8D%E7%A8%80%E7%BC%BA%E4%BC%98%E8%B4%A8%E5%9C%9F%E5%9C%B0%E7%A8%80%E7%BC%BA&#34;&gt;土地不稀缺，优质土地稀缺&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%9B%86%E4%B8%AD%E5%8F%91%E5%B1%95%E5%A4%A7%E5%9F%8E%E5%B8%82%E6%98%AF%E5%AF%BC%E8%87%B4%E4%BC%98%E8%B4%A8%E5%9C%9F%E5%9C%B0%E7%A8%80%E7%BC%BA%E7%9A%84%E5%8E%9F%E5%9B%A0&#34;&gt;集中发展大城市是导致优质土地稀缺的原因&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E6%98%AF%E8%AF%B4%E7%BB%99%E4%BA%BA%E6%B0%91%E5%90%AC%E7%9A%84&#34;&gt;为人民服务是说给人民听的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8E%86%E5%8F%B2%E6%98%AF%E4%B8%80%E9%9D%A2%E9%95%9C%E5%AD%90%E4%B8%8D%E5%90%8C%E7%9A%84%E5%9B%BD%E6%83%85%E5%86%B3%E5%AE%9A%E4%BA%86%E9%87%87%E5%8F%96%E5%90%8C%E6%A0%B7%E7%9A%84%E6%94%BF%E7%AD%96%E7%BB%93%E6%9E%9C%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8D%97%E8%BE%95%E5%8C%97%E8%BE%99&#34;&gt;历史是一面镜子，不同的国情决定了采取同样的政策结果可能是南辕北辙&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#zf%E9%99%90%E5%88%B6%E6%94%BF%E7%AD%96%E6%88%BF%E7%9A%84%E5%88%A9%E6%B6%A6%E9%82%A3kfs%E5%B0%B1%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99&#34;&gt;zf限制政策房的利润，那kfs就一定会偷工减料&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%B1%81%E8%82%A1%E5%86%B3%E5%AE%9A%E8%84%91%E8%A2%8B%E4%BA%BA%E6%B0%91%E4%B8%8D%E7%9F%A5%E5%8E%89%E5%AE%B3%E5%85%B3%E7%B3%BB%E9%80%89%E6%88%BF%E5%AD%90zf%E9%80%89%E5%86%9C%E4%BA%A7%E5%93%81&#34;&gt;屁股决定脑袋，人民不知厉害关系选房子，zf选农产品&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%90%84%E4%B8%AA%E9%98%B6%E5%B1%82%E7%9A%84%E4%BD%8F%E6%88%BF%E9%97%AE%E9%A2%98%E9%83%BD%E5%AE%89%E6%8E%92%E7%9A%84%E5%A6%A5%E5%A6%A5%E7%9A%84&#34;&gt;各个阶层的住房问题都安排的妥妥的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%A1%B6%E5%B1%82%E7%9A%84%E5%B2%81%E6%9C%88%E9%9D%99%E5%A5%BD%E6%9D%A5%E8%87%AA%E4%BA%8E%E5%BA%95%E5%B1%82%E7%9A%84%E8%B4%9F%E9%87%8D%E5%89%8D%E8%A1%8C&#34;&gt;顶层的岁月静好来自于底层的负重前行&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%BA%95%E5%B1%82%E6%8C%87%E7%9A%84%E6%98%AF%E4%BD%93%E5%88%B6%E5%A4%96%E5%BA%95%E8%96%AA%E7%99%BD%E9%A2%86&#34;&gt;底层指的是体制外底薪白领&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B5%84%E9%87%91%E7%BB%88%E4%BC%9A%E6%B5%81%E5%90%91%E5%85%B7%E6%9C%89%E7%A8%80%E7%BC%BA%E6%80%A7%E7%9A%84%E8%B5%84%E4%BA%A7&#34;&gt;资金终会流向具有稀缺性的资产&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9C%9F%E5%9C%B0%E7%9A%84%E7%A8%80%E7%BC%BA%E5%86%B3%E5%AE%9A%E4%BA%86%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E6%B0%B8%E8%BF%9C%E4%B9%B0%E4%B8%8D%E8%B5%B7%E6%83%B3%E4%B9%B0%E7%9A%84%E6%88%BF%E5%AD%90&#34;&gt;土地的稀缺决定了大多数人永远买不起想买的房子&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%8D%E5%90%8C%E9%98%B6%E5%B1%82%E7%9A%84%E4%BA%BA%E5%AF%B9%E6%94%B6%E5%85%A5%E9%AB%98%E4%BD%8E%E6%9C%89%E4%B8%8D%E5%90%8C%E7%9A%84%E7%90%86%E8%A7%A3&#34;&gt;不同阶层的人对收入高低有不同的理解&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%80%E4%BA%8C%E7%BA%BF%E4%B9%B0%E6%88%BF%E5%8F%AA%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E6%9C%80%E7%BB%88%E7%A7%9F%E6%88%BF%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%BB%E6%B5%81&#34;&gt;一二线买房只会越来越难，最终租房会成为主流&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%BA%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E5%AE%89%E8%BA%AB%E4%B9%8B%E6%89%80%E8%83%BD%E4%B9%B0%E6%97%A9%E4%B9%B0%E6%AF%94%E6%99%9A%E4%B9%B0%E5%A5%BD&#34;&gt;人需要一个安身之所，能买早买比晚买好&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%82%A1%E5%B8%82&#34;&gt;股市&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A6%82%E6%9E%9C%E6%88%BF%E4%BB%B7%E4%B8%8D%E6%B6%A8%E9%82%A3%E5%85%B6%E4%BB%96%E4%BA%A7%E5%93%81%E4%BC%9A%E6%80%8E%E4%B9%88%E6%B6%A8&#34;&gt;如果房价不涨，那其他产品会怎么涨&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#zf%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E5%85%AC%E7%A7%9F%E6%88%BF%E6%8E%A7%E5%88%B6%E7%A7%9F%E6%88%BF%E5%B8%82%E5%9C%BA&#34;&gt;zf如何利用公租房控制租房市场&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9F%8E%E4%B8%AD%E6%9D%91%E4%B8%8D%E4%BC%9A%E9%95%BF%E6%9C%9F%E5%AD%98%E5%9C%A8&#34;&gt;城中村不会长期存在&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E7%9A%84%E6%9C%AA%E6%9D%A5&#34;&gt;三四线城市的未来&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E7%A7%9F%E4%BB%B7%E6%A0%BC%E6%B6%A8%E4%B8%8D%E4%B8%8A%E5%8E%BB%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%B9%B0%E6%88%BF%E8%BF%98%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%9C%89%E5%B8%8C%E6%9C%9B&#34;&gt;房租价格涨不上去，本质是买房还看起来有希望&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%A8%80%E7%BC%BA%E6%88%BF%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%B0%B8%E8%BF%9C%E6%B6%A8&#34;&gt;稀缺房的价格永远涨&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%B2%AE%E9%A3%9F%E5%92%8C%E6%88%BF%E5%AD%90%E7%9A%84%E4%B8%8D%E5%90%8C%E6%98%AF%E6%88%BF%E5%AD%90%E6%97%A0%E6%B3%95%E5%92%8C%E5%9C%9F%E5%9C%B0%E5%89%A5%E7%A6%BB&#34;&gt;粮食和房子的不同是，房子无法和土地剥离&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%AD%E4%B9%B0%E6%88%BF%E4%BB%B7%E5%9F%BA%E6%95%B0%E4%BD%8E%E7%9A%84%E7%9C%81%E4%BC%9A%E5%9F%8E%E5%B8%82%E6%80%8E%E4%B9%88%E9%83%BD%E4%B8%8D%E4%BC%9A%E4%BA%8F%E7%9A%84&#34;&gt;购买房价基数低的省会城市，怎么都不会亏的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%98%AF%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E8%BF%98%E6%98%AF%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E&#34;&gt;房地产是资本市场还是实体经济？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BB%80%E4%B9%88%E6%98%AF%E5%82%BB%E7%A9%BA&#34;&gt;什么是傻空&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BB%80%E4%B9%88%E6%98%AF%E7%9C%9F%E4%B9%B0%E4%B8%8D%E8%B5%B7%E6%88%BF&#34;&gt;什么是真买不起房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B7%E4%BD%93%E6%83%85%E5%86%B5%E5%85%B7%E4%BD%93%E5%88%86%E6%9E%90%E5%A6%82%E6%9E%9C%E7%9C%8B%E4%B8%8D%E6%87%82%E4%B8%80%E5%AE%9A%E6%98%AF%E6%B2%A1%E6%9C%89%E6%8A%93%E4%BD%8F%E9%97%AE%E9%A2%98%E6%9C%AC%E8%B4%A8&#34;&gt;具体情况具体分析，如果看不懂，一定是没有抓住问题本质&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%A1%82%E6%9E%97-vs-%E5%8D%97%E5%AE%81&#34;&gt;桂林 vs 南宁&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%AC%E7%A7%9F%E6%88%BF%E7%9A%84%E9%87%8F%E7%BA%A7%E4%B8%8D%E4%BC%9A%E5%86%B2%E5%87%BB%E5%88%B0%E5%95%86%E5%93%81%E6%88%BF%E5%B8%82%E5%9C%BA&#34;&gt;公租房的量级不会冲击到商品房市场&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%B5%E9%98%B3%E8%B5%84%E6%BA%90%E7%9A%84%E7%A8%80%E7%BC%BA%E5%AF%BC%E8%87%B4%E6%9D%83%E8%B4%B5%E6%9B%B4%E5%AE%B9%E6%98%93%E5%9E%84%E6%96%AD%E9%80%9A%E8%BF%87%E4%BD%8E%E6%94%B6%E5%85%A5%E9%AB%98%E7%89%A9%E4%BB%B7%E7%9A%84%E6%96%B9%E5%BC%8F%E5%89%A5%E5%89%8A%E5%BA%95%E5%B1%82%E7%BE%A4%E4%BD%93&#34;&gt;贵阳，资源的稀缺导致权贵更容易垄断，通过低收入高物价的方式剥削底层群体&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%87%8D%E5%BA%86%E9%AB%98%E5%B1%82%E5%92%8C%E5%88%AB%E5%A2%85%E6%80%8E%E4%B9%88%E9%80%89&#34;&gt;重庆：高层和别墅怎么选？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%A7%E5%B8%81%E8%B4%AC%E5%80%BC&#34;&gt;货币贬值&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E9%AB%98%E4%BA%8E%E4%B8%AD%E5%9B%BD%E4%BD%86%E5%A4%A7%E5%A4%9A%E6%95%B0%E5%95%86%E5%93%81%E7%9A%84%E7%89%A9%E4%BB%B7%E5%8D%B4%E4%BD%8E%E4%BA%8E%E4%B8%AD%E5%9B%BD&#34;&gt;为什么美国人工高于中国，但大多数商品的物价却低于中国&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%BF%98%E8%83%BD%E4%B8%8A%E8%BD%A6%E7%9A%84%E8%B5%B6%E7%B4%A7%E4%B8%8A%E8%BD%A6&#34;&gt;还能上车的赶紧上车&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%AD%A6%E6%B1%89%E5%9F%8E%E5%B8%82%E5%8F%91%E5%B1%95%E7%A9%BA%E9%97%B4%E7%9A%84%E5%A4%A7%E5%B0%8F%E5%BE%80%E5%BE%80%E5%92%8C%E6%88%BF%E4%BB%B7%E7%9A%84%E5%8D%87%E5%80%BC%E7%A9%BA%E9%97%B4%E6%88%90%E6%AD%A3%E6%AF%94&#34;&gt;武汉：城市发展空间的大小，往往和房价的升值空间成正比&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%9D%83%E5%88%A9%E8%AE%A9%E9%9D%A9%E6%97%8F%E6%88%90%E4%B8%BA%E8%8B%97%E6%97%8F%E7%9A%84%E4%B8%80%E6%94%AF&#34;&gt;权利让革族成为苗族的一支&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BB%B7%E6%98%AF%E5%90%A6%E4%BC%9A%E8%B7%8C%E5%A6%82%E6%9E%9C%E4%BC%9A%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B7%8C&#34;&gt;房价是否会跌，如果会，会怎么跌&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%E6%98%AF%E5%87%8F%E7%BC%93%E7%81%AD%E4%BA%A1%E6%9C%80%E5%A5%BD%E7%9A%84%E8%89%AF%E8%8D%AF&#34;&gt;通货膨胀是减缓灭亡最好的良药&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%A7%E5%B8%81%E4%BE%9B%E5%BA%94%E4%B8%8D%E8%B6%B3%E6%98%AF%E6%98%8E%E6%9C%9D%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0&#34;&gt;货币供应不足是明朝的真正原因&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98%E6%98%AF%E5%AF%BC%E8%87%B4%E6%B8%85%E6%9C%9D%E7%81%AD%E4%BA%A1&#34;&gt;经济问题是导致清朝灭亡&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BA%A7%E6%8A%95%E8%B5%84%E7%9A%84%E5%87%A0%E7%82%B9%E5%BB%BA%E8%AE%AE&#34;&gt;房产投资的几点建议&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AF%B9%E5%A4%96%E5%8D%87%E5%80%BC%E5%AF%B9%E5%86%85%E8%B4%AC%E5%80%BC&#34;&gt;人民币对外升值，对内贬值&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8D%97%E5%AE%81%E4%B9%B0%E6%88%BF%E5%BB%BA%E8%AE%AE&#34;&gt;南宁买房建议&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%BB%8F%E6%B5%8E%E9%80%82%E7%94%A8%E6%88%BF%E9%83%BD%E6%98%AF%E5%86%85%E9%83%A8%E5%88%86%E9%85%8D%E7%9A%84&#34;&gt;经济适用房都是内部分配的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%99%AE%E9%80%9A%E4%BA%BA%E6%80%8E%E4%B9%88%E5%8A%9E%E5%B0%BD%E6%97%A9%E4%B9%B0%E6%88%BF%E5%8A%AA%E5%8A%9B%E6%8C%A3%E9%92%B1%E6%8A%B5%E5%BE%A1%E9%80%9A%E8%83%80&#34;&gt;普通人怎么办：尽早买房，努力挣钱抵御通胀&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BB%B7%E4%BC%9A%E5%87%BA%E7%8E%B0%E5%BE%88%E5%A4%9A%E4%B8%8A%E4%B8%8B%E6%B3%A2%E5%8A%A8&#34;&gt;房价会出现很多上下波动&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E6%88%BF%E6%97%B6%E6%9C%BA%E7%9A%84%E9%80%89%E6%8B%A9%E7%9C%9Ftm%E5%8E%89%E5%AE%B3%E8%BF%99%E7%AB%9F%E7%84%B6%E6%98%AF2010%E5%B9%B4%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%8F%AF%E6%81%A8%E7%9A%84%E6%98%AF2020%E5%B9%B4%E6%89%8D%E7%9C%8B%E5%88%B0&#34;&gt;买房时机的选择（真TM厉害，这竟然是2010年的建议，可恨的是2020年才看到）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%94%B6%E5%85%A5%E5%88%86%E9%85%8D%E6%94%B9%E9%9D%A9%E8%B7%9F%E4%BD%93%E5%88%B6%E5%A4%96%E7%9A%84%E4%BA%BA%E6%B2%A1%E5%85%B3%E7%B3%BB&#34;&gt;收入分配改革跟体制外的人没关系&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%93%E5%88%B6%E5%A4%96%E7%9A%84%E4%BA%BA%E8%A6%81%E6%97%A9%E6%97%A9%E8%80%83%E8%99%91%E5%85%BB%E8%80%81%E9%97%AE%E9%A2%98&#34;&gt;体制外的人要早早考虑养老问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B0%B8%E8%BF%9C%E4%B8%8D%E8%A6%81%E5%92%8C%E7%99%BD%E7%97%B4%E4%BA%89%E8%BE%A9%E5%9B%A0%E4%B8%BA%E4%BB%96%E4%BC%9A%E6%8A%8A%E4%BD%A0%E7%9A%84%E6%99%BA%E5%95%86%E6%8B%89%E5%88%B0%E5%92%8C%E4%BB%96%E5%90%8C%E4%B8%80%E6%B0%B4%E5%B9%B3%E7%84%B6%E5%90%8E%E7%94%A8%E4%B8%B0%E5%AF%8C%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%89%93%E8%B4%A5%E4%BD%A0&#34;&gt;永远不要和白痴争辩，因为他会把你的智商拉到和他同一水平，然后用丰富的经验打败你&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%BD%93%E4%B8%AA%E5%86%9C%E6%B0%91%E4%B9%9F%E8%A6%81%E6%87%82%E6%94%BF%E7%AD%96%E8%A6%81%E9%A1%BA%E6%94%BF%E7%AD%96%E8%80%8C%E4%B8%BA&#34;&gt;当个农民也要懂政策，要顺政策而为&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%AD%98%E9%92%B1%E4%B8%8D%E5%A6%82%E5%AD%98%E8%B5%84%E4%BA%A7%E9%92%B1%E4%BC%9A%E8%B4%AC%E5%80%BC%E8%B5%84%E4%BA%A7%E4%BC%9A%E5%8D%87%E5%80%BC&#34;&gt;存钱不如存资产，钱会贬值，资产会升值&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E5%AD%90%E8%B6%8A%E6%97%A9%E4%B9%B0%E8%B6%8A%E5%A5%BDzf%E6%83%B3%E9%92%B1%E6%83%B3%E7%96%AF%E4%BA%86&#34;&gt;房子越早买越好，zf想钱想疯了&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%88%A9%E7%9B%8A%E6%89%8D%E6%98%AFzf%E8%A1%8C%E4%B8%BA%E7%9A%84%E6%8C%87%E6%8C%A5%E6%A3%92&#34;&gt;利益才是zf行为的指挥棒&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%BB%BA%E8%AE%AE%E4%B8%80%E5%AE%9A%E6%98%AF%E5%BB%BA%E7%AB%8B%E5%9C%A8%E4%B8%A5%E8%82%83%E8%80%83%E5%AF%9F%E7%9A%84%E5%9F%BA%E7%A1%80%E4%B8%8A&#34;&gt;建议一定是建立在严肃考察的基础上&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%9F%B3%E5%AE%B6%E5%BA%84&#34;&gt;石家庄&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%8A%95%E8%B5%84%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E7%A8%80%E7%BC%BA%E6%80%A7%E4%B9%B0%E6%88%BF%E9%A6%96%E9%80%89%E5%85%AC%E5%8A%A1%E5%91%98%E5%B0%8F%E5%8C%BA&#34;&gt;投资最重要的是稀缺性，买房首选公务员小区&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%BF%9C%E7%A6%BB%E5%9E%83%E5%9C%BE%E4%BA%BA&#34;&gt;远离垃圾人&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%AB%98%E6%88%BF%E4%BB%B7%E6%88%96%E8%AE%B8%E6%9C%89%E5%A4%A9%E4%BC%9A%E5%B4%A9%E7%9B%98%E4%BD%86%E4%BD%A0%E7%AD%89%E4%B8%8D%E5%88%B0%E9%82%A3%E4%B8%80%E5%A4%A9&#34;&gt;高房价或许有天会崩盘，但你等不到那一天&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E5%AD%90%E4%B8%8D%E4%BB%85%E8%A6%81%E6%97%A9%E4%B9%B0%E8%80%8C%E4%B8%94%E6%9C%89%E8%83%BD%E5%8A%9B%E7%9A%84%E8%AF%9D%E4%B8%8D%E8%A6%81%E6%80%95%E5%8E%8B%E5%8A%9B%E4%BA%89%E5%8F%96%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D&#34;&gt;房子不仅要早买，而且有能力的话不要怕压力，争取一步到位&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%87%91%E8%9E%8D%E6%9D%A0%E6%9D%86%E6%98%AF%E7%82%92%E6%88%BF%E8%B5%9A%E9%92%B1%E7%9A%84%E6%94%BE%E5%A4%A7%E5%99%A8&#34;&gt;金融杠杆是炒房赚钱的放大器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%A6%81%E7%94%A8%E5%8F%91%E5%B1%95%E7%9A%84%E7%9C%BC%E5%85%89%E7%9C%8B%E9%97%AE%E9%A2%98%E5%8F%AA%E8%A6%81%E5%8A%AA%E5%8A%9B%E5%8F%AA%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A5%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%BD%BB%E6%9D%BE&#34;&gt;要用发展的眼光看问题，只要努力，只会越来越好，越来越轻松&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%80%A7%E6%A0%BC%E5%86%B3%E5%AE%9A%E5%91%BD%E8%BF%90&#34;&gt;性格决定命运&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#2012%E5%B9%B4%E4%B8%8D%E5%8F%96%E6%B6%88%E8%B0%83%E6%8E%A7%E8%BF%98%E6%9C%89%E6%88%BF%E4%BB%B7%E7%BB%B4%E7%A8%B3%E9%A1%BA%E5%88%A9%E6%8D%A2%E5%B1%8A%E8%80%83%E8%99%91&#34;&gt;2012年不取消调控，还有房价维稳顺利换届考虑&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B4%BC%E5%9C%B0%E6%9C%80%E7%BB%88%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%A1%AB%E5%B9%B3%E5%A4%9A%E6%95%B0%E5%9F%8E%E5%B8%82%E6%98%AF%E6%97%A9%E4%B9%B0%E8%83%9C%E4%BA%8E%E6%99%9A%E4%B9%B0&#34;&gt;洼地最终都会被填平，多数城市是早买胜于晚买&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%A5%BF%E9%83%A8&#34;&gt;西部&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%9F%AD%E6%9C%9F%E6%B3%A2%E5%8A%A8%E5%B1%9E%E4%BA%8E%E6%AD%A3%E5%B8%B8%E7%8E%B0%E8%B1%A1%E9%9C%80%E8%A6%81%E5%85%B3%E6%B3%A8%E7%9A%84%E6%98%AF%E9%95%BF%E6%9C%9F%E8%B6%8B%E5%8A%BF&#34;&gt;短期波动属于正常现象，需要关注的是长期趋势&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%9A%84%E6%99%BA%E6%85%A7%E5%92%8C%E6%89%8D%E5%B9%B2%E5%86%B3%E5%AE%9A%E4%BA%86%E5%9B%BD%E5%AE%B6%E7%9A%84%E5%91%BD%E8%BF%90%E7%BB%9F%E5%B8%85%E7%9A%84%E6%99%BA%E6%85%A7%E5%92%8C%E6%89%8D%E5%B9%B2%E5%86%B3%E5%AE%9A%E4%BA%86%E5%86%9B%E9%98%9F%E7%9A%84%E5%91%BD%E8%BF%90%E8%80%8C%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%99%BA%E6%85%A7%E5%92%8C%E6%89%8D%E5%B9%B2%E5%86%B3%E5%AE%9A%E4%BA%86%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%91%BD%E8%BF%90&#34;&gt;领导人的智慧和才干决定了国家的命运，统帅的智慧和才干决定了军队的命运，而个人的智慧和才干决定了个人的命运&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%AF%B9%E4%BA%8E%E5%85%B7%E5%A4%87%E6%8A%95%E8%B5%84%E5%B1%9E%E6%80%A7%E7%9A%84%E5%95%86%E5%93%81%E4%BE%9B%E6%B1%82%E5%85%B3%E7%B3%BB%E6%98%AF%E6%8C%87%E8%B4%A7%E5%B8%81%E4%B8%8E%E5%95%86%E5%93%81%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB&#34;&gt;对于具备投资属性的商品，供求关系是指货币与商品之间的关系&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%97%A9%E4%B9%B0%E7%9A%84%E9%A3%8E%E9%99%A9%E5%B0%8F%E4%BA%8E%E6%99%9A%E4%B9%B0&#34;&gt;早买的风险小于晚买&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%B0%8F%E5%BC%80%E5%8F%91%E5%95%86%E7%9A%84%E6%88%BF%E5%AD%90%E8%83%BD%E4%B8%8D%E8%83%BD%E4%B9%B0&#34;&gt;小开发商的房子能不能买？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A4%A7%E5%85%B4%E5%9C%9F%E6%9C%A8%E6%90%9E%E5%BB%BA%E8%AE%BE%E7%9A%84%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E9%83%BD%E5%BA%95%E4%B8%8D%E4%BA%86&#34;&gt;大兴土木搞建设的城市，房价都底不了&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E8%80%81%E5%BC%8F%E7%A0%96%E6%B7%B7%E6%9D%BF%E6%A5%BC%E7%9A%84%E6%9C%80%E7%BB%88%E5%91%BD%E8%BF%90&#34;&gt;北京老式砖混板楼的最终命运？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%8A%8A%E6%88%BF%E4%B9%B0%E5%9C%A8zf%E8%BE%B9%E5%B7%AE%E4%B8%8D%E4%BA%86&#34;&gt;把房买在zf边，差不了&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A4%A9%E5%AD%90%E8%84%9A%E4%B8%8B%E4%BA%8C%E6%89%8B%E8%80%81%E6%88%BF%E4%B9%B0%E5%BE%97%E5%A5%BD%E6%8B%86%E8%BF%81%E8%A1%A5%E5%81%BF%E5%B0%91%E4%B8%8D%E4%BA%86&#34;&gt;天子脚下：二手老房买得好，拆迁补偿少不了&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#3%E4%B8%87%E5%85%A5%E6%89%8B%E5%8C%97%E4%BA%AC%E5%9B%9B%E7%8E%AF%E4%BD%A0%E4%B9%9F%E6%98%AF%E5%B9%B8%E8%BF%90%E7%9A%84&#34;&gt;3万入手北京四环，你也是幸运的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%90%9B%E4%B8%BA%E8%B4%B5%E5%95%86%E4%BA%BA%E6%8A%80%E5%B7%A5%E6%AC%A1%E4%B9%8B%E5%86%9C%E6%B0%91%E4%B8%BA%E8%BD%BB%E6%89%93%E5%B7%A5%E4%BA%BA%E4%B8%BA%E5%BA%95&#34;&gt;君为贵，商人、技工次之，农民为轻，打工人为底&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#10%E5%B9%B4%E7%9A%84%E8%B0%83%E6%8E%A7%E5%92%8C08%E5%B9%B4%E8%B0%83%E6%8E%A7%E7%9A%84%E5%8C%BA%E5%88%AB%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%BA%E4%BC%9A&#34;&gt;10年的调控和08年调控的区别、带来的影响、机会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8E%86%E5%8F%B2%E6%80%BB%E6%98%AF%E6%83%8A%E4%BA%BA%E7%9A%84%E7%9B%B8%E4%BC%BC&#34;&gt;历史总是惊人的相似&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E6%88%BF%E8%B4%B7&#34;&gt;关于房贷&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E5%8D%96%E5%95%86%E5%93%81%E6%88%BF%E4%BC%9A%E9%80%90%E6%B8%90%E5%8F%98%E6%88%90%E5%AF%8C%E4%BA%BA%E7%9A%84%E6%B8%B8%E6%88%8F&#34;&gt;买卖商品房会逐渐变成富人的游戏&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#zf%E8%BF%98%E6%98%AF%E6%9B%B4%E5%9C%A8%E6%84%8F%E5%86%9C%E6%B0%91%E9%97%AE%E9%A2%98&#34;&gt;zf还是更在意农民问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B2%BB%E5%9B%BD%E9%9C%80%E8%A6%81%E7%94%A8%E8%B4%AA%E5%AE%98%E5%8F%8D%E8%B4%AA%E5%AE%98&#34;&gt;治国需要用贪官、反贪官&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E5%85%B8%E5%9E%8B%E4%BB%A3%E8%A1%A8&#34;&gt;二线城市典型代表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E5%95%86%E9%93%BA%E5%92%8C%E4%BD%8F%E5%AE%85%E6%8A%95%E8%B5%84&#34;&gt;关于商铺和住宅投资&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E6%88%BF%E4%BA%A7%E8%B0%83%E6%8E%A7&#34;&gt;关于房产调控&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E6%88%BF%E4%BA%A7%E7%A8%8E&#34;&gt;关于房产税&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%80%81%E5%85%AC%E6%88%BF%E7%9A%84%E6%8B%86%E8%BF%81%E9%97%AE%E9%A2%98&#34;&gt;老公房的拆迁问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%8A%95%E8%B5%84%E6%96%B0%E6%88%BF%E8%BF%98%E6%98%AF%E8%80%81%E5%85%AC%E6%88%BF&#34;&gt;投资新房还是老公房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%AB%98%E7%AB%AF%E7%9B%98%E6%9C%89%E6%88%BF%E4%BB%B7%E5%B8%A6%E5%8A%A8%E4%BD%9C%E7%94%A8&#34;&gt;高端盘有房价带动作用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E6%88%BF%E5%92%8C%E6%B2%A1%E4%B9%B0%E6%88%BF%E7%9A%84%E5%B7%AE%E8%B7%9D&#34;&gt;买房和没买房的差距&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BA%A7%E4%BA%A4%E6%98%93%E5%8E%86%E5%8F%B2&#34;&gt;房产交易历史&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A5%91%E7%A8%8E%E7%9A%84%E5%8E%86%E5%8F%B2&#34;&gt;契税的历史&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%BB%89%E7%A7%9F%E6%88%BF%E7%9A%84%E5%8E%86%E5%8F%B2&#34;&gt;廉租房的历史&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8E%86%E5%8F%B2%E4%B8%8A%E4%B9%B0%E6%88%BF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%9D%E4%BB%A3&#34;&gt;历史上买房最好的朝代&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%9C%AA%E6%9D%A5%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E7%9A%84%E5%8F%91%E5%B1%95&#34;&gt;未来房地产市场的发展&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E4%BA%A7%E5%88%B0%E6%9C%9F&#34;&gt;房产到期&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E5%AD%A6%E5%8C%BA%E6%88%BF%E9%97%AE%E9%A2%98&#34;&gt;买学区房问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8E%86%E5%8F%B2%E7%9A%84%E7%BB%93%E5%B1%80&#34;&gt;历史的结局&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%BA%E5%8F%A3%E6%99%AE%E6%9F%A5&#34;&gt;人口普查&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%98%86%E5%B1%B1%E6%88%BF%E4%BB%B7%E5%88%86%E6%9E%90%E4%B8%8E%E4%B9%B0%E6%88%BF&#34;&gt;昆山房价分析与买房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%A7%9F%E5%94%AE%E6%AF%94%E8%BF%99%E4%B9%88%E4%BD%8E--%E5%90%8C%E5%B0%8F%E5%8C%BA%E4%B9%B0%E4%B8%80%E5%A5%97%E5%A4%A7%E8%BF%98%E6%98%AF%E4%B8%A4%E5%A5%97%E5%B0%8F&#34;&gt;为什么现在租售比这么低 &amp;amp; 同小区买一套大还是两套小&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E6%88%BF%E9%9A%BE%E4%B9%8B%E5%9B%9E%E4%B8%8D%E5%8E%BB%E7%9A%84%E4%B9%A1--%E6%8B%89%E7%BE%8E%E4%BA%BA%E8%BF%87%E5%BE%97%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E5%A5%BD&#34;&gt;买房难之回不去的乡 &amp;amp; 拉美人过得比你想象的好&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%A7%9F%E6%88%BF%E7%9A%84%E8%8B%A6&#34;&gt;租房的苦&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E8%A5%BF%E4%B8%89%E6%97%97&#34;&gt;北京西三旗&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E6%88%BF%E4%BA%89%E5%8F%96%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D&#34;&gt;买房争取一步到位&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%94%B6%E5%85%A5%E7%A8%B3%E5%AE%9A%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%A6%82%E4%BD%95%E4%B9%B0%E6%88%BF&#34;&gt;收入稳定的家庭如何买房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E5%9B%9E%E9%BE%99%E8%A7%82&#34;&gt;北京回龙观&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%B7%E6%AC%BE%E8%BF%98%E6%98%AF%E5%85%A8%E6%AC%BE&#34;&gt;贷款还是全款&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#00%E5%90%8E%E7%9A%84%E4%B9%B0%E6%88%BF%E9%9C%80%E6%B1%82%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5&#34;&gt;00后的买房需求从何而来&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%84%8F%E5%A4%A7%E5%88%A9%E7%9A%84%E4%BD%8F%E6%88%BF%E6%A8%A1%E5%BC%8F&#34;&gt;意大利的住房模式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AD%A6%E6%9C%AF&#34;&gt;中国的学术&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E8%BF%9C%E6%B4%8B%E5%B1%B1%E6%B0%B4&#34;&gt;北京远洋山水&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%B2%BE%E8%8B%B1%E7%9A%84%E8%B5%84%E4%BA%A7&#34;&gt;精英的资产&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E4%B8%89%E7%8E%AF%E5%A1%94%E6%A5%BC&#34;&gt;北京三环塔楼&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B9%B0%E6%88%BF%E7%9A%84%E6%9C%AA%E6%9D%A5&#34;&gt;普通人买房的未来&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E6%88%BF%E4%BB%B7%E8%B6%85%E9%A6%99%E6%B8%AF&#34;&gt;北京房价超香港&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%96%B0%E9%97%BB%E4%B8%8D%E5%8F%AF%E4%BF%A1%E7%B2%BE%E8%8B%B1%E7%9A%84%E6%9C%89%E9%92%B1%E6%98%AF%E4%BD%A0%E6%83%B3%E8%B1%A1%E4%B8%8D%E5%88%B0%E7%9A%84&#34;&gt;中国的新闻不可信，精英的有钱是你想象不到的&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#40%E5%B9%B4%E7%9A%84%E5%95%86%E4%BD%8F%E6%88%BF%E6%B2%A1%E6%9C%8970%E5%B9%B4%E7%9A%84%E4%BD%8F%E5%AE%85%E6%9C%89%E6%8A%95%E8%B5%84%E4%BB%B7%E5%80%BC&#34;&gt;40年的商住房没有70年的住宅有投资价值&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%99%90%E8%B4%B7%E5%AF%B9%E7%B2%BE%E8%8B%B1%E6%B2%A1%E7%94%A8&#34;&gt;限贷对精英没用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A4%96%E6%B1%87%E7%AE%A1%E5%88%B6%E5%86%B3%E5%AE%9A%E4%BA%86%E5%A4%A7%E9%83%A8%E5%88%86%E6%9C%89%E9%92%B1%E4%BA%BA%E5%8F%AA%E8%83%BD%E5%9C%A8%E5%9B%BD%E5%86%85%E6%8A%95%E8%B5%84&#34;&gt;外汇管制决定了大部分有钱人只能在国内投资&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A4%96%E5%9B%BD%E5%9B%BD%E7%B1%8D%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%B4%BB%E6%98%AF%E6%9B%B4%E5%A5%BD%E7%9A%84%E9%80%89%E6%8B%A9&#34;&gt;外国国籍在中国生活是更好的选择&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%88%86%E6%9C%9F%E4%BB%98%E6%AC%BE%E4%B9%B0%E6%88%BF%E5%A6%82%E6%9E%9C%E6%88%BF%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%BE%88%E5%AE%B9%E6%98%93%E6%AF%81%E7%BA%A6--%E8%87%AA%E4%BD%8F%E8%A6%81%E9%80%89%E5%A4%A7%E5%93%81%E7%89%8C%E5%BC%80%E5%8F%91%E5%95%86&#34;&gt;分期付款买房，如果房价上涨，很容易毁约 &amp;amp; 自住要选大品牌开发商&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%E5%92%8C%E6%88%BF%E4%BB%B7%E7%9A%84%E5%85%B3%E7%B3%BB&#34;&gt;通货膨胀和房价的关系&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8D%97%E4%BA%AC%E4%B9%B0%E6%88%BF%E5%88%86%E6%9E%90--%E4%B9%B0%E6%88%BF%E8%A6%81%E5%81%9A%E5%A5%BD%E8%B0%83%E6%9F%A5%E5%88%86%E6%9E%90%E5%B7%A5%E4%BD%9C&#34;&gt;南京买房分析 &amp;amp; 买房要做好调查分析工作&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E5%8D%8E%E6%B8%85%E5%98%89%E5%9B%AD&#34;&gt;北京华清嘉园&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%9D%E4%BB%A3%E6%9B%B4%E6%9B%BF&#34;&gt;中国的朝代更替&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%AD%E5%9B%BD%E5%8F%AF%E4%BB%A5%E6%97%A0%E9%99%90%E5%8D%B0%E9%92%9E%E5%90%97&#34;&gt;中国可以无限印钞吗&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%AF%BB%E5%8F%B2%E8%AF%BB%E7%9A%84%E4%B8%8D%E6%98%AF%E6%95%85%E4%BA%8B%E8%BF%98%E6%98%AF%E6%89%BE%E5%8E%86%E5%8F%B2%E8%A7%84%E5%BE%8B%E4%BB%A5%E5%8F%A4%E9%89%B4%E4%BB%8A&#34;&gt;读史读的不是故事，还是找历史规律，以古鉴今&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%AF%9B%E5%A4%AA%E9%98%B3%E5%BE%80%E4%BA%8B&#34;&gt;毛太阳往事&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%85%B4&#34;&gt;北京大兴&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%B5%E9%98%B3&#34;&gt;贵阳&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%AF%8C%E4%BA%BA%E8%B6%8A%E5%AF%8C%E7%A9%B7%E4%BA%BA%E8%B6%8A%E7%A9%B7&#34;&gt;富人越富、穷人越穷&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%E7%9A%84%E5%BD%A2%E6%88%90%E5%8E%9F%E5%9B%A0&#34;&gt;通货膨胀的形成原因&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B7%B1%E5%9C%B3--%E6%98%86%E6%98%8E%E4%BB%87%E4%B9%A6%E8%AE%B0--%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%E4%BD%93%E5%88%B6%E5%86%85%E9%AB%98%E6%9E%95%E6%97%A0%E5%BF%A7%E4%BD%93%E5%88%B6%E5%A4%96%E8%87%AA%E6%B1%82%E5%A4%9A%E7%A6%8F&#34;&gt;深圳 &amp;amp; 昆明仇书记 &amp;amp; 通货膨胀体制内高枕无忧、体制外自求多福&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%95%BF%E6%98%A5&#34;&gt;长春&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%9B%E5%B1%B1&#34;&gt;佛山&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%A6%96%E4%BB%98%E6%8F%90%E9%AB%98%E7%9A%84%E9%80%BB%E8%BE%91&#34;&gt;首付提高的逻辑&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82&#34;&gt;四线城市&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%8B%8F%E5%B7%9E%E5%B7%A5%E4%B8%9A%E5%9B%AD&#34;&gt;苏州工业园&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E5%88%A9%E7%8E%87&#34;&gt;住房公积金利率&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B5%8E%E5%8D%97--%E5%A4%A7%E8%A7%84%E5%BE%8B%E6%8B%86%E8%BF%81%E7%9A%84%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E4%B8%8D%E4%BC%9A%E4%B8%8B%E9%99%8D&#34;&gt;济南 &amp;amp; 大规律拆迁的城市房价不会下降&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%AC%E5%8A%A1%E5%91%98%E5%B0%8F%E5%8C%BA%E7%89%9B%E9%80%BC&#34;&gt;公务员小区牛逼&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E5%B1%8B%E6%9C%9D%E5%90%91%E5%8F%AA%E8%A6%81%E4%B8%8D%E6%98%AF%E7%BA%AF%E5%8C%97%E8%A5%BF%E5%B0%B1%E8%A1%8C--%E4%B9%B0%E6%88%BF%E9%A6%96%E9%80%89%E5%B8%82%E4%B8%AD%E5%BF%83%E5%85%AC%E5%9B%AD%E5%9C%B0%E4%BA%A7&#34;&gt;房屋朝向只要不是纯北西就行 &amp;amp; 买房首选市中心、公园地产&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#zf%E6%90%AC%E8%BF%81&#34;&gt;zf搬迁&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BF%84%E7%BD%97%E6%96%AF&#34;&gt;俄罗斯&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%8F%A0%E6%B5%B7--%E5%94%AF%E4%B8%80%E8%87%AA%E4%BD%8F%E6%88%BF%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%8A%95%E8%B5%84--%E8%B0%83%E6%8E%A7%E6%98%AF%E6%9C%80%E4%BD%B3%E7%9A%84%E9%80%89%E6%88%BF%E6%97%B6%E6%9C%BA&#34;&gt;珠海 &amp;amp; 唯一自住房不只是投资 &amp;amp; 调控是最佳的选房时机&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%BB%8F%E6%B5%8E%E5%B4%A9%E6%BA%83%E6%9C%80%E5%90%8E%E6%8E%A5%E7%9B%98%E7%9A%84%E6%98%AF%E8%80%81%E7%99%BE%E5%A7%93&#34;&gt;经济崩溃，最后接盘的是老百姓&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%91%BD%E8%BF%90%E4%B9%8B%E7%9F%9B&#34;&gt;命运之矛&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%99%A4%E9%9D%9E%E5%A4%96%E6%97%8F%E5%85%A5%E4%BE%B5%E6%88%96%E5%85%A8%E5%9B%BD%E5%A4%A7%E9%A5%A5%E8%8D%92%E5%90%A6%E5%88%99%E5%8F%8C%E8%BD%A8%E5%88%B6%E5%86%B3%E5%AE%9A%E4%BA%86%E6%88%BF%E4%BB%B7%E4%B8%8D%E4%BC%9A%E5%B4%A9%E7%9B%98&#34;&gt;除非外族入侵或全国大饥荒，否则双轨制决定了房价不会崩盘&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#kkndme%E8%81%8A%E5%8C%97%E5%AE%8B%E5%94%90%E6%9C%9D&#34;&gt;kkndme聊北宋、唐朝&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%AE%8B%E4%BB%A3%E6%88%BF%E5%A5%B4&#34;&gt;宋代房奴&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#zg%E6%B0%91%E4%B8%BB&#34;&gt;ZG民主&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%8E%8B%E5%AE%89%E7%9F%B3%E7%9A%84%E9%9D%92%E8%8B%97%E6%B3%95%E4%B9%8B%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%94%BF%E7%AD%96%E7%9A%84%E5%8A%A8%E6%9C%BA&#34;&gt;王安石的青苗法之国家出政策的动机&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BB%80%E4%B9%88%E6%98%AF%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%B9%B3&#34;&gt;什么是社会公平&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%BF%98%E6%98%AF%E6%9C%89%E5%BE%88%E5%A4%9A%E6%9C%89%E9%92%B1%E4%BA%BA&#34;&gt;还是有很多有钱人&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8F%8C%E8%BD%A8%E5%88%B6%E4%B9%8B%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E7%A6%8F%E5%88%A9&#34;&gt;双轨制之体制内的福利&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%BC%80%E5%8F%91%E5%95%86%E6%80%9D%E7%BB%B4&#34;&gt;开发商思维&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%86%9C%E6%B0%91%E6%94%BF%E6%9D%83%E7%9A%84%E7%BC%BA%E7%82%B9&#34;&gt;农民政权的缺点&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%83%91%E5%B7%9E%E6%9C%89%E5%89%8D%E6%99%AF&#34;&gt;郑州有前景&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%AC%E5%9B%AD%E5%9C%B0%E4%BA%A7%E6%98%AF%E7%A8%80%E7%BC%BA%E8%B5%84%E6%BA%90&#34;&gt;公园地产是稀缺资源&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%BC%A0%E7%8C%AE%E5%BF%A0%E5%B1%A0%E5%B7%9D&#34;&gt;张献忠屠川&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B4%AA%E7%A7%80%E5%85%A8%E9%BB%84%E5%B7%A2%E6%9D%8E%E8%87%AA%E6%88%90&#34;&gt;洪秀全、黄巢、李自成&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%9C%B1%E5%85%83%E7%92%8B&#34;&gt;朱元璋&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%9B%B9%E5%8F%82%E6%B2%BB%E5%9B%BD&#34;&gt;曹参治国&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%99%81%E9%94%99&#34;&gt;晁错&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B0%91%E8%90%A5%E5%B0%8F%E4%BC%81%E4%B8%9A%E7%9A%84%E8%80%81%E6%9D%BF%E5%92%8C%E6%89%93%E5%B7%A5%E8%80%85&#34;&gt;民营小企业的老板和打工者&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E9%83%AD%E8%A7%A3&#34;&gt;郭解&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#2010%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7&#34;&gt;2010年的中国房地产&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%88%BF%E5%A5%B4%E7%AE%97%E4%B8%8D%E4%B8%8A%E4%B8%8D%E5%B9%B8%E7%9B%B8%E5%BD%93%E5%BD%93%E4%B8%8D%E4%BA%86%E6%89%8D%E7%AE%97&#34;&gt;房奴算不上不幸，相当当不了才算&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E7%B2%BE%E8%8B%B1%E4%BA%BA%E7%BE%A4%E7%9A%84%E5%B9%B3%E5%9D%87%E6%94%B6%E5%85%A5%E5%86%B3%E5%AE%9A%E6%88%BF%E4%BB%B7&#34;&gt;精英人群的平均收入决定房价&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%86%85%E5%9C%B0%E4%B8%8D%E6%98%AF%E9%A6%99%E6%B8%AF%E6%B5%B7%E5%8D%97&#34;&gt;内地不是香港、海南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%8E%86%E5%8F%B2%E6%98%AF%E4%B8%80%E9%9D%A2%E9%95%9C%E5%AD%90&#34;&gt;历史是一面镜子&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E6%88%BF%E4%B8%80%E6%AC%A1%E6%80%A7%E5%88%B0%E4%BD%8D%E6%AF%94%E8%BE%83%E5%A5%BD&#34;&gt;买房一次性到位比较好&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A4%96%E6%B1%87%E7%AE%A1%E5%88%B6&#34;&gt;外汇管制&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%80%E7%BA%BF%E5%92%8C%E4%BA%8C%E7%BA%BF&#34;&gt;一线和二线&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%90%95%E5%90%8E%E7%AF%A1%E6%9D%83&#34;&gt;吕后篡权&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%B0%8F%E4%BA%A7%E6%9D%83%E6%88%BF&#34;&gt;小产权房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%95%86%E9%93%BA%E5%92%8C%E4%BD%8F%E5%AE%85&#34;&gt;商铺和住宅&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%93%E5%88%B6%E5%86%85%E5%A4%96&#34;&gt;体制内外&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#2010%E5%B9%B4%E7%9A%84%E4%B8%8A%E6%B5%B7&#34;&gt;2010年的上海&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%94%B6%E7%B4%A7%E4%BD%8F%E6%88%BF%E8%B4%B7%E6%AC%BE&#34;&gt;收紧住房贷款&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B9%B0%E6%88%BF%E7%89%A9%E4%B8%9A%E4%B8%8E%E6%88%BF%E8%B4%B7&#34;&gt;买房：物业与房贷&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A5%B8%E8%87%A3%E8%94%A1%E4%BA%AC&#34;&gt;奸臣蔡京&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%8428%E5%8E%9F%E5%88%99&#34;&gt;体制内的28原则&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B4%BE%E8%B0%8A&#34;&gt;贾谊&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#kkndme-%E6%8E%A8%E8%8D%90%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B9%A6&#34;&gt;kkndme 推荐的历史书&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A6%81%E6%97%A9%E4%B9%B0%E6%88%BF&#34;&gt;年轻人要早买房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%8D%E8%A6%81%E4%BD%8E%E4%BC%B0%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80&#34;&gt;不要低估通货膨胀&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%8C%E4%B8%89%E7%BA%BF%E5%9F%8E%E5%B8%82%E4%B8%8E%E9%87%8D%E5%BA%86&#34;&gt;二三线城市与重庆&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9F%8E%E5%8C%BA%E5%92%8C%E9%83%8A%E5%8C%BA&#34;&gt;城区和郊区&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%AE%88%E7%9D%80%E9%87%91%E7%A2%97%E8%A6%81%E9%A5%AD%E5%90%83&#34;&gt;守着金碗要饭吃&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%BA%E5%88%B6%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%BA%BA%E5%B0%B1%E6%98%AF%E5%88%B6%E5%BA%A6&#34;&gt;人制的社会，人就是制度&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%87%86%E5%85%AC%E5%8A%A1%E5%91%98%E7%9A%84%E5%A5%BD%E5%A4%84&#34;&gt;准公务员的好处&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%B0%8F%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E4%BC%9A%E5%9B%A0%E4%B8%BA%E4%BA%BA%E6%B0%91%E5%B8%81%E8%B4%AC%E5%80%BC%E6%B6%A8%E4%BB%B7%E4%BD%86%E4%BE%9D%E7%84%B6%E9%9A%BE%E5%8F%98%E7%8E%B0&#34;&gt;小城市房价会因为人民币贬值涨价，但依然难变现&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%80%E7%BA%BF%E6%9D%AD%E5%B7%9E&#34;&gt;一线杭州&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%8C%E4%B8%89%E7%BA%BF%E5%9F%8E%E5%B8%82%E7%9A%84%E5%8F%91%E5%B1%95%E9%9D%A0%E6%8B%86%E8%BF%81&#34;&gt;二三线城市的发展靠拆迁&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%BD%AC%E7%AF%87%E6%96%87%E7%AB%A0%E4%B8%80%E4%B8%AA%E5%BF%BD%E6%82%A0%E4%BA%86%E5%87%A0%E4%BA%BF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%BC%AA%E6%A6%82%E5%BF%B5%E6%89%80%E8%B0%93%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%B3%A1%E6%B2%AB&#34;&gt;转篇文章：一个忽悠了几亿中国人的伪概念：所谓“中国房地产泡沫”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%8B%86%E8%BF%81%E8%A1%A5%E5%81%BF&#34;&gt;拆迁补偿&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9F%8E%E5%B8%82%E5%BA%95%E5%B1%82&#34;&gt;城市底层&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9E%84%E6%96%AD%E4%BC%81%E4%B8%9A&#34;&gt;垄断企业&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%86%9C%E6%9D%91%E8%87%AA%E6%9D%A5%E6%B0%B4&#34;&gt;农村自来水&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%A2%81%E7%9B%8E&#34;&gt;袁盎&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%8C%E4%B8%89%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%80%89%E6%96%B0%E5%9F%8E%E8%BF%98%E6%98%AF%E8%80%81%E5%9F%8E&#34;&gt;二三线城市，选新城还是老城&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%99%AE%E9%80%9A%E4%BA%BA%E6%89%8B%E4%B8%8A%E9%97%B2%E9%92%B1%E4%B8%8D%E5%A4%9A%E7%9A%84%E4%BA%BA%E8%A2%AB%E5%89%A5%E5%89%8A&#34;&gt;在中国，普通人手上闲钱不多的人被剥削&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%89%E5%88%86%E5%A4%A9%E6%B3%A8%E5%AE%9A%E4%B8%83%E5%88%86%E9%9D%A0%E6%89%93%E6%8B%BC&#34;&gt;三分天注定，七分靠打拼&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BA%BA%E7%9A%84%E5%89%8D%E7%A8%8B%E6%9C%89%E7%9A%84%E6%97%B6%E5%80%99%E4%B8%8D%E6%8E%8C%E6%8F%A1%E5%9C%A8%E8%87%AA%E5%B7%B1%E6%89%8B%E9%87%8C&#34;&gt;人的前程有的时候不掌握在自己手里&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%B2%B3%E5%8D%97%E9%83%91%E5%B7%9E%E4%B8%8E%E6%B4%9B%E9%98%B3&#34;&gt;河南郑州与洛阳&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%9D%AD%E5%B7%9E&#34;&gt;杭州&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%A5%BF%E5%AE%89%E4%B8%8E%E9%87%8D%E5%BA%86&#34;&gt;西安与重庆&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%B0%A2%E5%9B%BD%E4%B8%AD%E7%A9%BA%E7%BD%AE%E7%8E%87&#34;&gt;谢国中「空置率」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%89%93%E5%B7%A5%E4%B8%8D%E5%A6%82%E6%9C%89%E4%B8%80%E6%8A%80%E4%B9%8B%E9%95%BF%E7%9A%84%E5%B0%8F%E8%80%81%E6%9D%BF&#34;&gt;打工不如有一技之长的小老板&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%80%E7%BA%BF%E4%BA%8C%E7%BA%BF%E7%9A%84%E7%94%9F%E6%B4%BB&#34;&gt;一线、二线的生活&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%AE%B2%E6%95%85%E4%BA%8B%E5%90%AB%E6%B2%99%E5%B0%84%E5%BD%B1zg%E4%B9%8B%E6%88%BF%E5%AD%90%E4%B8%8D%E5%B1%9E%E4%BA%8E%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E&#34;&gt;讲故事含沙射影ZG之房子不属于市场经济&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BB%80%E4%B9%88%E6%98%AF%E5%A5%BD%E7%9A%84%E6%94%BF%E7%AD%96&#34;&gt;什么是好的政策&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E6%9D%8E%E5%95%86%E9%9A%90%E6%B8%A3%E7%94%B7%E7%A5%96%E5%B8%88%E7%88%B7&#34;&gt;李商隐「渣男」祖师爷&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E8%A5%BF%E4%BA%94%E7%8E%AF%E5%86%85%E7%9A%84%E5%88%AB%E5%A2%85%E6%98%AF%E7%9B%B8%E5%BD%93%E7%A8%80%E7%BC%BA%E7%9A%84%E8%B5%84%E6%BA%90&#34;&gt;西五环内的别墅，是相当稀缺的资源&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%A5%B8%E8%87%A3%E8%B4%BE%E4%BC%BC%E9%81%93&#34;&gt;“奸臣”贾似道&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E6%8B%86%E8%BF%81&#34;&gt;关于拆迁&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%BF%9D%E9%92%93%E4%BA%8B%E4%BB%B6%E4%B9%8B%E6%AD%BB%E8%A6%81%E9%9D%A2%E5%AD%90%E6%B4%BB%E5%8F%97%E7%BD%AA&#34;&gt;保钓事件之死要面子活受罪&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%8D%E5%8F%AF%E8%83%BD%E8%BD%AF%E7%9D%80%E9%99%86&#34;&gt;中国的房地产不可能软着陆&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%85%B3%E4%BA%8E%E8%B4%AD%E4%B9%B0%E7%BB%8F%E6%B5%8E%E9%80%82%E7%94%A8%E6%88%BF&#34;&gt;关于购买经济适用房&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/think/%E5%A4%A9%E6%B6%AFkkndme%E7%A5%9E%E8%B4%B4%E8%81%8A%E6%88%BF%E4%BB%B7/#%E5%9C%B0%E7%BA%A7%E5%B8%82%E4%B9%B0%E6%88%BF&#34;&gt;地级市买房&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;调控降房价是刚需的一厢情愿&#34;&gt;调控降房价是刚需的一厢情愿&lt;/h2&gt;
 &lt;p&gt;2010年的房地产调控，让很多人看到了希望：让房价降得再猛烈些吧。还有人更是幸灾乐祸似的呼喊：让房地产赶紧崩盘吧。让没房子的好好看看有房子的笑话，是人生的一大快事。&lt;/p&gt;
@@ -4667,7 +4711,7 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -4682,8 +4726,8 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
     
         <entry>
             <title type="text">当代中国社会各阶级(阶层)分析</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E9%98%B6%E5%B1%82%E5%88%86%E6%9E%90/" />
-            <id>https://example.com/life/%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E9%98%B6%E5%B1%82%E5%88%86%E6%9E%90/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E9%98%B6%E5%B1%82%E5%88%86%E6%9E%90/" />
+            <id>https://example.com/think/%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%90%84%E9%98%B6%E7%BA%A7%E9%98%B6%E5%B1%82%E5%88%86%E6%9E%90/</id>
             <updated>2022-03-28T22:50:55&#43;08:00</updated>
             <published>2022-03-28T21:22:35&#43;08:00</published>
             
@@ -4785,7 +4829,299 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Mysql5</title>
+            <link rel="alternate" type="text/html" href="https://example.com/tech/mysql5.7%E4%B8%BB%E4%BB%8Edocker-compose/" />
+            <id>https://example.com/tech/mysql5.7%E4%B8%BB%E4%BB%8Edocker-compose/</id>
+            <updated>2022-03-28T23:28:21&#43;08:00</updated>
+            <published>2021-01-25T04:08:31&#43;08:00</published>
+            
+            <summary type="html">安装mysql5.7主库 准备docker和docker-compose环境 docke……</summary>
+            
+                <content type="html">&lt;h1 id=&#34;安装mysql57主库&#34;&gt;安装mysql5.7主库&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;准备docker和docker-compose环境&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;docker官网安装教程：https://docs.docker.com/engine/install/&lt;/p&gt;
+&lt;p&gt;docker-compose官网安装教程：https://docs.docker.com/compose/install/&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;创建yml目录，相关数据挂载&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;# yml存放的目录
+mkdir -p /root/docker-compose/mysql
+
+# 主库的/var/lib/mysql 数据的挂载目录
+mkdir -p /data/mysql5master
+
+#不用slave 了，用replication的缩写replic , slave 是奴隶的意思，在美国有种族歧视的之嫌
+#从库的/var/lib/mysql 数据的挂载目录
+mkdir -p /data/mysql5replic
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;创建网络空间，配置时区&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;docker network create mysql-replic
+echo &#39;Asia/Shanghai&#39; &amp;gt; /etc/timezone
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;提前准备好所需镜像&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;docker pull mysql:5.7&lt;/code&gt;&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;主库/root/docker-compose/mysql/master.yml&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;version: &#39;3.7&#39;
+services:
+  #主库服务名称
+  mysql-master:
+    #容器名称
+    container_name: mysql-master
+    #镜像名称 提前 docker pull mysql:5.7.30 不然会很慢
+    image: mysql:5.7.30
+    #docker 重启后容器重启
+    restart: always
+    #选择自建bridge网络
+    networks:
+      - mysql_replic
+    #mysql 参数配置 my.cnf里面的配置，这里简单配置下，可以配置volumes  /etc/my.cnf:/etc/my.cnf
+    command: --character-set-server=utf8mb4 --collation-server=utf8mb4_general_ci --server-id=1 --log-bin=mysql-bin
+    environment:
+      - TZ=Asia/Shanghai
+      #默认密码配置 123456 修改成您的密码
+      - MYSQL_ROOT_PASSWORD=123456
+    ports:
+      - 3307:3306
+     
+    volumes:
+      - /etc/localtime:/etc/localtime
+      - /etc/timezone:/etc/timezone
+       #挂载目录 /var/lib/mysql 是mysql的数据
+      - /data/mysql5matser:/var/lib/mysql
+#配置网络
+networks:
+  mysql_replic:
+    name: mysql_replic
+    #强制使用已经创建好的网络，不然报错
+    external: true
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;启动主库&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;docker-compose -f master.yml up -d&lt;/code&gt;&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;进入容器，登录主库&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;# 进入docker
+docker exec -it mysql-master bash
+
+# 进入docker的mysql
+mysql -uroot -p
+# 输入密码
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;创建同步账号replic,授权同步权限,查看主库状态信息&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;-- 创建同步账号
+CREATE USER &#39;replic&#39;@&#39;%&#39; IDENTIFIED BY &#39;123456&#39;;
+-- 授权权限
+GRANT REPLICATION SLAVE, REPLICATION CLIENT ON *.* TO &#39;replic&#39;@&#39;%&#39;;
+-- 查看主节点状态
+show master status;
+-- 数据的结果
+
+-- +------------------+----------+--------------+------------------+-------------------+
+-- | File             | Position | Binlog_Do_DB | Binlog_Ignore_DB | Executed_Gtid_Set |
+-- +------------------+----------+--------------+------------------+-------------------+
+-- | mysql-bin.000003 |      619 |              |                  |                   |
+-- +------------------+----------+--------------+------------------+-------------------+
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;二安装mysql57从库同步主库数据&#34;&gt;二、安装mysql5.7从库，同步主库数据&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;从库/root/docker-compse/mysqlreplic.yml&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;version: &#39;3.7&#39;
+services:
+  #从库服务名称
+  mysql-replic:
+    #容器名称
+    container_name: mysql-replic
+    #镜像名称 提前 docker pull mysql:5.7.30 不然会很慢
+    image: mysql:5.7.30
+    #docker 重启后容器重启
+    restart: always
+    #选择自建bridge网络
+    networks:
+      - mysql_replic
+    command: --character-set-server=utf8mb4 --collation-server=utf8mb4_general_ci --server-id=2 --log-bin=mysql-slave-bin --relay_log=ep-mysql-relay-bin  --read_only=1
+    environment:
+      #时区
+      - TZ=Asia/Shanghai
+      #默认密码配置
+      - MYSQL_ROOT_PASSWORD=123456
+    volumes:
+      - /etc/localtime:/etc/localtime
+      - /etc/timezone:/etc/timezone
+       #挂载目录 /var/lib/mysql 是数据盘
+      - /data/mysql5replic:/var/lib/mysql
+    ports:
+      - 3308:3306
+#配置网络
+networks:
+  mysql_replic:
+    name: mysql_replic
+    #强制使用已经创建好的网络，不然报错
+    external: true
+2.启动从库
+docker-compose -f replic.yml up -d
+#不用管 提醒
+#WARNING: Found orphan containers (mysql-master) for this project. If you removed or renamed this service in your compose file, you can run this command with the --remove-orphans flag to clean it up.
+3.进入容器，登录从库
+#进入容器
+docker exec -it mysql-replic  bash
+#登录mysql
+mysql -uroot -p
+#输入密码
+4.同步脚本
+-- 查看从库状态
+show slave status ;
+-- 第一次安装执行会返回
+-- Empty set (0.00 sec)
+-- 同步设置
+change master to master_host=&#39;mysql-master&#39;, master_user=&#39;replic&#39;, master_password=&#39;123456&#39;, master_port=3306, master_log_file=&#39;mysql-bin.000003&#39;, master_log_pos=619;
+-- 启动同步
+start slave;
+-- 查看同步结果
+show slave status \G;
+-- *************************** 1. row ***************************
+--                Slave_IO_State: Waiting for master to send event
+--                   Master_Host: mysql-master
+--                   Master_User: replic
+--                   Master_Port: 3306
+--                 Connect_Retry: 60
+--               Master_Log_File: mysql-bin.000003
+--           Read_Master_Log_Pos: 619
+--                Relay_Log_File: ep-mysql-relay-bin .000002
+--                 Relay_Log_Pos: 320
+--         Relay_Master_Log_File: mysql-bin.000003
+--              Slave_IO_Running: Yes
+--             Slave_SQL_Running: Yes
+--               Replicate_Do_DB:
+--           Replicate_Ignore_DB:
+--            Replicate_Do_Table:
+--        Replicate_Ignore_Table:
+--       Replicate_Wild_Do_Table:
+--   Replicate_Wild_Ignore_Table:
+--                    Last_Errno: 0
+--                    Last_Error:
+--                  Skip_Counter: 0
+--           Exec_Master_Log_Pos: 619
+--               Relay_Log_Space: 532
+--               Until_Condition: None
+--                Until_Log_File:
+--                 Until_Log_Pos: 0
+--            Master_SSL_Allowed: No
+--            Master_SSL_CA_File:
+--            Master_SSL_CA_Path:
+--               Master_SSL_Cert:
+--             Master_SSL_Cipher:
+--                Master_SSL_Key:
+--         Seconds_Behind_Master: 0
+-- Master_SSL_Verify_Server_Cert: No
+--                 Last_IO_Errno: 0
+--                 Last_IO_Error:
+--                Last_SQL_Errno: 0
+--                Last_SQL_Error:
+--   Replicate_Ignore_Server_Ids:
+--              Master_Server_Id: 1
+--                   Master_UUID: b2353e18-8d00-11ea-9de4-0242ac170002
+--              Master_Info_File: /var/lib/mysql/master.info
+--                     SQL_Delay: 0
+--           SQL_Remaining_Delay: NULL
+--       Slave_SQL_Running_State: Slave has read all relay log; waiting for more updates
+--            Master_Retry_Count: 86400
+--                   Master_Bind:
+--       Last_IO_Error_Timestamp:
+--      Last_SQL_Error_Timestamp:
+--                Master_SSL_Crl:
+--            Master_SSL_Crlpath:
+--            Retrieved_Gtid_Set:
+--             Executed_Gtid_Set:
+--                 Auto_Position: 0
+--          Replicate_Rewrite_DB:
+--                  Channel_Name:
+--            Master_TLS_Version:
+
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;成功标志&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;-- 表示同步成功
+--              Slave_IO_Running: Yes
+--             Slave_SQL_Running: Yes
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;三检查主从同步&#34;&gt;三、检查主从同步&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;进入主库创建一个数据库&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;create database test;
+show databases;
+-- 输出
+-- +--------------------+
+-- | Database           |
+-- +--------------------+
+-- | information_schema |
+-- | mysql              |
+-- | performance_schema |
+-- | sys                |
+-- | test               |
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;主库创建只读账号供从库只读使用&#34;&gt;主库创建只读账号，供从库只读使用&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;grant select on *.* TO &#39;view&#39;@&#39;%&#39; identified by &#39;123456&#39;;
+-- 从库修改数据会
+--1290 - The MySQL server is running with the --read-only option so it cannot execute this statement
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;进入从库查看&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;show databases;
+-- 输出
+-- +--------------------+
+-- | Database           |
+-- +--------------------+
+-- | information_schema |
+-- | mysql              |
+-- | performance_schema |
+-- | sys                |
+-- | test               |
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;四卸载mysql主从&#34;&gt;四、卸载mysql主从&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;删除容器&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;#删除从库容器
+docker-compose -f replic.yml down
+#删除主库容器
+docker-compose -f master.yml down
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;删除数据(谨慎使用此命令)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;rm -rf  /data/mysql5matser
+rm -rf  /data/mysql5replic
+&lt;/code&gt;&lt;/pre&gt;</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://example.com/tech/" term="tech\" label="tech\" />
                         
                     
                 
@@ -4800,8 +5136,8 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
     
         <entry>
             <title type="text">资本主义个人反抗指南(九)</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B9%9D/" />
-            <id>https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B9%9D/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B9%9D/" />
+            <id>https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B9%9D/</id>
             <updated>2021-01-19T16:56:31&#43;08:00</updated>
             <published>2021-01-19T15:46:13&#43;08:00</published>
             
@@ -4882,7 +5218,7 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -4897,8 +5233,8 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
     
         <entry>
             <title type="text">资本主义个人反抗指南(八)</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%85%AB/" />
-            <id>https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%85%AB/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%85%AB/" />
+            <id>https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%85%AB/</id>
             <updated>2021-01-19T15:42:57&#43;08:00</updated>
             <published>2021-01-19T14:56:26&#43;08:00</published>
             
@@ -4954,7 +5290,7 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -4969,8 +5305,8 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
     
         <entry>
             <title type="text">资本主义个人反抗指南(七)</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B8%83/" />
-            <id>https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B8%83/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B8%83/" />
+            <id>https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B8%83/</id>
             <updated>2021-01-16T19:13:30&#43;08:00</updated>
             <published>2021-01-16T17:37:03&#43;08:00</published>
             
@@ -5045,7 +5381,7 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -5060,8 +5396,8 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
     
         <entry>
             <title type="text">资本主义个人反抗指南(六)</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%85%AD/" />
-            <id>https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%85%AD/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%85%AD/" />
+            <id>https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%85%AD/</id>
             <updated>2021-01-14T13:59:07&#43;08:00</updated>
             <published>2021-01-14T13:56:33&#43;08:00</published>
             
@@ -5103,7 +5439,7 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -5118,8 +5454,8 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
     
         <entry>
             <title type="text">资本主义个人反抗指南(五)</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%BA%94/" />
-            <id>https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%BA%94/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%BA%94/" />
+            <id>https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%BA%94/</id>
             <updated>2021-01-14T13:55:51&#43;08:00</updated>
             <published>2021-01-14T13:33:40&#43;08:00</published>
             
@@ -5180,7 +5516,7 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -5195,8 +5531,8 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
     
         <entry>
             <title type="text">资本主义个人反抗指南(四)</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%9B%9B/" />
-            <id>https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%9B%9B/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%9B%9B/" />
+            <id>https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E5%9B%9B/</id>
             <updated>2021-01-12T14:31:19&#43;08:00</updated>
             <published>2021-01-12T12:04:44&#43;08:00</published>
             
@@ -5275,7 +5611,7 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -5290,8 +5626,8 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
     
         <entry>
             <title type="text">资本主义个人反抗指南(三)</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B8%89/" />
-            <id>https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B8%89/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B8%89/" />
+            <id>https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B8%89/</id>
             <updated>2021-01-12T14:31:15&#43;08:00</updated>
             <published>2021-01-12T09:36:54&#43;08:00</published>
             
@@ -5335,7 +5671,7 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -5350,8 +5686,8 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
     
         <entry>
             <title type="text">资本主义个人反抗指南(二)</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%BA%8C/" />
-            <id>https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%BA%8C/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%BA%8C/" />
+            <id>https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%BA%8C/</id>
             <updated>2021-01-12T13:58:08&#43;08:00</updated>
             <published>2021-01-12T08:33:22&#43;08:00</published>
             
@@ -5408,7 +5744,7 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -5423,8 +5759,8 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
     
         <entry>
             <title type="text">资本主义个人反抗指南(一)</title>
-            <link rel="alternate" type="text/html" href="https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B8%80/" />
-            <id>https://example.com/life/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B8%80/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B8%80/" />
+            <id>https://example.com/think/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97%E4%B8%80/</id>
             <updated>2021-01-12T14:58:22&#43;08:00</updated>
             <published>2021-01-11T13:55:42&#43;08:00</published>
             
@@ -5477,7 +5813,7 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
                     
                     
                         
-                            <category scheme="https://example.com/life/" term="life\" label="life\" />
+                            <category scheme="https://example.com/think/" term="think\" label="think\" />
                         
                     
                 
@@ -5485,6 +5821,63 @@ zf初重拳打击的结果往往取得相反的效果，因为政府如果希望
             
             
                 
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Nginx区分PC或手机访问不同网站</title>
+            <link rel="alternate" type="text/html" href="https://example.com/tech/nginx%E5%8C%BA%E5%88%86pc%E6%88%96%E6%89%8B%E6%9C%BA%E8%AE%BF%E9%97%AE%E4%B8%8D%E5%90%8C%E7%BD%91%E7%AB%99/" />
+            <id>https://example.com/tech/nginx%E5%8C%BA%E5%88%86pc%E6%88%96%E6%89%8B%E6%9C%BA%E8%AE%BF%E9%97%AE%E4%B8%8D%E5%90%8C%E7%BD%91%E7%AB%99/</id>
+            <updated>2021-01-11T13:29:21&#43;08:00</updated>
+            <published>2021-01-11T12:06:40&#43;08:00</published>
+            
+            <summary type="html">简单的服务器端实现方法 有两套网站代码，一套PC版放在/usr/local/websi……</summary>
+            
+                <content type="html">&lt;h1 id=&#34;简单的服务器端实现方法&#34;&gt;简单的服务器端实现方法&lt;/h1&gt;
+&lt;p&gt;有两套网站代码，一套PC版放在/usr/local/website/web，一套移动版放在/usr/local/website/mobile。只需要修改nginx的配置文件件，nginx通过UA来判断是否来自移动端访问，实现不同的客户端访问不同内容。
+这种方法的缺点是移动端和PC端用同一个域名，存在黑帽的嫌疑，而且UA并不是总是判断的准确，如果判断错误的情况下，用户不能手动修改访问的网站类型。
+关键的Nginx配置如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;location / {
+	#默认PC端访问内容
+    root /usr/local/website/web;
+ 
+	#如果是手机移动端访问内容
+    if ( $http_user_agent ~ &amp;quot;(MIDP)|(WAP)|(UP.Browser)|(Smartphone)|(Obigo)|(Mobile)|(AU.Browser)|(wxd.Mms)|(WxdB.Browser)|(CLDC)|(UP.Link)|(KM.Browser)|(UCWEB)|(SEMC-Browser)|(Mini)|(Symbian)|(Palm)|(Nokia)|(Panasonic)|(MOT-)|(SonyEricsson)|(NEC-)|(Alcatel)|(Ericsson)|(BENQ)|(BenQ)|(Amoisonic)|(Amoi-)|(Capitel)|(PHILIPS)|(SAMSUNG)|(Lenovo)|(Mitsu)|(Motorola)|(SHARP)|(WAPPER)|(LG-)|(LG/)|(EG900)|(CECT)|(Compal)|(kejian)|(Bird)|(BIRD)|(G900/V1.0)|(Arima)|(CTL)|(TDG)|(Daxian)|(DAXIAN)|(DBTEL)|(Eastcom)|(EASTCOM)|(PANTECH)|(Dopod)|(Haier)|(HAIER)|(KONKA)|(KEJIAN)|(LENOVO)|(Soutec)|(SOUTEC)|(SAGEM)|(SEC-)|(SED-)|(EMOL-)|(INNO55)|(ZTE)|(iPhone)|(Android)|(Windows CE)|(Wget)|(Java)|(curl)|(Opera)&amp;quot; )
+	{
+		root /usr/local/website/mobile;
+	}
+ 
+	index index.html index.htm;
+}
+&lt;/code&gt;&lt;/pre&gt;</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://example.com/tech/" term="tech\" label="tech\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/nginx/" term="Nginx" label="Nginx" />
+                            
+                        
                     
                 
             
