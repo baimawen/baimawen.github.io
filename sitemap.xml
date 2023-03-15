@@ -4,17 +4,27 @@
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2022-08-26T03:59:51+08:00</lastmod>
+    <lastmod>2023-03-15T21:33:04+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/notes/</loc>
-    <lastmod>2022-08-26T03:59:51+08:00</lastmod>
+    <lastmod>2023-03-15T21:33:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/notes/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E4%BA%BA%E5%85%BB%E7%8E%89%E4%B8%89%E5%B9%B4%E7%8E%89%E5%85%BB%E4%BA%BA%E5%8D%81%E5%B9%B4/</loc>
+    <lastmod>2023-03-15T21:33:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/notes/%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%89%E9%92%B1%E4%BA%BA%E6%95%99%E4%BC%9A%E4%BA%86%E4%BD%A0%E5%93%AA%E4%BA%9B%E9%81%93%E7%90%86/</loc>
+    <lastmod>2023-03-15T21:24:25+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/notes/%E6%B4%97%E8%84%91%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
-    <lastmod>2022-08-26T03:59:51+08:00</lastmod>
+    <lastmod>2022-08-26T04:27:01+08:00</lastmod>
   </url>
   
   <url>
